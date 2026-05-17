@@ -1,0 +1,144 @@
+
+#######################################################################
+Please cite the following paper when using nnU-Net:
+Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211.
+#######################################################################
+ 
+2026-05-11 01:29:02.767830: Using torch.compile... 
+2026-05-11 01:29:05.551616: do_dummy_2d_data_aug: False 
+2026-05-11 01:29:05.556978: Using splits from existing split file: /content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/splits_final.json 
+2026-05-11 01:29:05.560371: The split file contains 5 splits. 
+2026-05-11 01:29:05.563358: Desired fold for training: 3 
+2026-05-11 01:29:05.566369: This split has 232 training and 58 validation cases. 
+
+This is the configuration used by this training:
+Configuration name: 3d_fullres
+ {'data_identifier': 'nnUNetPlans_3d_fullres', 'preprocessor_name': 'DefaultPreprocessor', 'batch_size': 2, 'patch_size': [128, 128, 128], 'median_image_size_in_voxels': [434.5, 512.0, 467.0], 'spacing': [0.9130857586860657, 0.78515625, 0.81640625], 'normalization_schemes': ['CTNormalization'], 'use_mask_for_norm': [False], 'resampling_fn_data': 'resample_data_or_seg_to_shape', 'resampling_fn_seg': 'resample_data_or_seg_to_shape', 'resampling_fn_data_kwargs': {'is_seg': False, 'order': 3, 'order_z': 0, 'force_separate_z': None}, 'resampling_fn_seg_kwargs': {'is_seg': True, 'order': 1, 'order_z': 0, 'force_separate_z': None}, 'resampling_fn_probabilities': 'resample_data_or_seg_to_shape', 'resampling_fn_probabilities_kwargs': {'is_seg': False, 'order': 1, 'order_z': 0, 'force_separate_z': None}, 'architecture': {'network_class_name': 'dynamic_network_architectures.architectures.unet.PlainConvUNet', 'arch_kwargs': {'n_stages': 6, 'features_per_stage': [32, 64, 128, 256, 320, 320], 'conv_op': 'torch.nn.modules.conv.Conv3d', 'kernel_sizes': [[3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3]], 'strides': [[1, 1, 1], [2, 2, 2], [2, 2, 2], [2, 2, 2], [2, 2, 2], [2, 2, 2]], 'n_conv_per_stage': [2, 2, 2, 2, 2, 2], 'n_conv_per_stage_decoder': [2, 2, 2, 2, 2], 'conv_bias': True, 'norm_op': 'torch.nn.modules.instancenorm.InstanceNorm3d', 'norm_op_kwargs': {'eps': 1e-05, 'affine': True}, 'dropout_op': None, 'dropout_op_kwargs': None, 'nonlin': 'torch.nn.LeakyReLU', 'nonlin_kwargs': {'inplace': True}}, '_kw_requires_import': ['conv_op', 'norm_op', 'dropout_op', 'nonlin']}, 'batch_dice': True} 
+ 
+These are the global plan.json settings:
+ {'dataset_name': 'Dataset503_KidneyTumorFixed', 'plans_name': 'nnUNetPlans', 'original_median_spacing_after_transp': [0.9130857586860657, 0.78515625, 0.81640625], 'original_median_shape_after_transp': [512, 512, 512], 'image_reader_writer': 'SimpleITKIO', 'transpose_forward': [0, 1, 2], 'transpose_backward': [0, 1, 2], 'experiment_planner_used': 'ExperimentPlanner', 'label_manager': 'LabelManager', 'foreground_intensity_properties_per_channel': {'0': {'max': 3071.0, 'mean': 84.58316160470807, 'median': 78.0, 'min': -1021.0, 'percentile_00_5': -49.0, 'percentile_99_5': 294.0, 'std': 64.99079655543194}}} 
+ 
+2026-05-11 01:29:11.187471: Unable to plot network architecture: nnUNet_compile is enabled! 
+2026-05-11 01:29:11.876785: Training done. 
+2026-05-11 01:29:12.105721: Using splits from existing split file: /content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/splits_final.json 
+2026-05-11 01:29:12.110484: The split file contains 5 splits. 
+2026-05-11 01:29:12.116045: Desired fold for training: 3 
+2026-05-11 01:29:12.121090: This split has 232 training and 58 validation cases. 
+2026-05-11 01:29:12.126178: predicting neg_000 
+2026-05-11 01:29:14.452297: neg_000, shape torch.Size([1, 522, 576, 554]), rank 0 
+2026-05-11 01:30:18.352806: predicting neg_003 
+2026-05-11 01:30:18.941698: neg_003, shape torch.Size([1, 286, 507, 488]), rank 0 
+2026-05-11 01:30:40.247800: predicting neg_006 
+2026-05-11 01:30:41.449165: neg_006, shape torch.Size([1, 242, 484, 465]), rank 0 
+2026-05-11 01:30:57.418929: predicting neg_007 
+2026-05-11 01:30:57.813758: neg_007, shape torch.Size([1, 242, 493, 474]), rank 0 
+2026-05-11 01:31:13.776638: predicting neg_008 
+2026-05-11 01:31:14.187284: neg_008, shape torch.Size([1, 215, 497, 478]), rank 0 
+2026-05-11 01:31:30.170011: predicting neg_021 
+2026-05-11 01:31:30.554658: neg_021, shape torch.Size([1, 242, 484, 465]), rank 0 
+2026-05-11 01:31:46.521393: predicting neg_032 
+2026-05-11 01:31:47.203014: neg_032, shape torch.Size([1, 441, 487, 468]), rank 0 
+2026-05-11 01:32:19.135632: predicting neg_037 
+2026-05-11 01:32:19.737034: neg_037, shape torch.Size([1, 408, 459, 441]), rank 0 
+2026-05-11 01:32:47.026320: predicting neg_045 
+2026-05-11 01:32:48.528921: neg_045, shape torch.Size([1, 757, 546, 525]), rank 0 
+2026-05-11 01:34:08.109852: predicting neg_046 
+2026-05-11 01:34:08.697110: neg_046, shape torch.Size([1, 346, 484, 465]), rank 0 
+2026-05-11 01:34:35.266521: predicting neg_058 
+2026-05-11 01:34:38.404632: neg_058, shape torch.Size([1, 433, 546, 525]), rank 0 
+2026-05-11 01:35:20.018407: predicting neg_060 
+2026-05-11 01:35:21.019761: neg_060, shape torch.Size([1, 411, 596, 573]), rank 0 
+2026-05-11 01:36:07.796408: predicting neg_063 
+2026-05-11 01:36:08.826792: neg_063, shape torch.Size([1, 649, 493, 474]), rank 0 
+2026-05-11 01:37:01.881442: predicting neg_065 
+2026-05-11 01:37:05.276282: neg_065, shape torch.Size([1, 401, 516, 496]), rank 0 
+2026-05-11 01:37:41.653213: predicting neg_069 
+2026-05-11 01:37:42.304695: neg_069, shape torch.Size([1, 264, 578, 556]), rank 0 
+2026-05-11 01:38:16.649279: predicting neg_102 
+2026-05-11 01:38:19.226212: neg_102, shape torch.Size([1, 470, 608, 584]), rank 0 
+2026-05-11 01:39:20.602661: predicting neg_111 
+2026-05-11 01:39:24.495246: neg_111, shape torch.Size([1, 560, 553, 532]), rank 0 
+2026-05-11 01:40:19.993497: predicting neg_114 
+2026-05-11 01:40:20.736346: neg_114, shape torch.Size([1, 387, 484, 465]), rank 0 
+2026-05-11 01:40:52.593052: predicting neg_116 
+2026-05-11 01:40:53.482602: neg_116, shape torch.Size([1, 482, 525, 505]), rank 0 
+2026-05-11 01:41:36.021866: predicting neg_121 
+2026-05-11 01:41:36.907243: neg_121, shape torch.Size([1, 555, 488, 469]), rank 0 
+2026-05-11 01:42:19.397382: predicting neg_123 
+2026-05-11 01:42:22.238963: neg_123, shape torch.Size([1, 434, 484, 465]), rank 0 
+2026-05-11 01:42:54.085975: predicting tumor_000 
+2026-05-11 01:42:54.906946: tumor_000, shape torch.Size([1, 516, 600, 374]), rank 0 
+2026-05-11 01:43:37.182906: predicting tumor_011 
+2026-05-11 01:43:38.760796: tumor_011, shape torch.Size([1, 442, 515, 452]), rank 0 
+2026-05-11 01:44:15.100454: predicting tumor_012 
+2026-05-11 01:44:15.723519: tumor_012, shape torch.Size([1, 427, 497, 349]), rank 0 
+2026-05-11 01:44:41.336086: predicting tumor_024 
+2026-05-11 01:44:42.501919: tumor_024, shape torch.Size([1, 394, 459, 362]), rank 0 
+2026-05-11 01:45:05.265442: predicting tumor_028 
+2026-05-11 01:45:05.930903: tumor_028, shape torch.Size([1, 427, 497, 326]), rank 0 
+2026-05-11 01:45:28.697886: predicting tumor_029 
+2026-05-11 01:45:29.759919: tumor_029, shape torch.Size([1, 428, 498, 601]), rank 0 
+2026-05-11 01:46:10.780435: predicting tumor_033 
+2026-05-11 01:46:14.861459: tumor_033, shape torch.Size([1, 503, 585, 412]), rank 0 
+2026-05-11 01:46:55.797904: predicting tumor_046 
+2026-05-11 01:46:57.104465: tumor_046, shape torch.Size([1, 416, 484, 577]), rank 0 
+2026-05-11 01:47:38.095551: predicting tumor_047 
+2026-05-11 01:47:43.490196: tumor_047, shape torch.Size([1, 458, 532, 834]), rank 0 
+2026-05-11 01:49:02.323201: predicting tumor_052 
+2026-05-11 01:49:03.016066: tumor_052, shape torch.Size([1, 416, 483, 228]), rank 0 
+2026-05-11 01:49:16.741214: predicting tumor_060 
+2026-05-11 01:49:17.724076: tumor_060, shape torch.Size([1, 437, 508, 474]), rank 0 
+2026-05-11 01:49:49.585959: predicting tumor_065 
+2026-05-11 01:49:54.469965: tumor_065, shape torch.Size([1, 462, 537, 576]), rank 0 
+2026-05-11 01:50:43.067456: predicting tumor_067 
+2026-05-11 01:50:47.242682: tumor_067, shape torch.Size([1, 501, 582, 562]), rank 0 
+2026-05-11 01:51:41.837761: predicting tumor_069 
+2026-05-11 01:51:42.321091: tumor_069, shape torch.Size([1, 416, 484, 277]), rank 0 
+2026-05-11 01:52:00.606512: predicting tumor_074 
+2026-05-11 01:52:01.340433: tumor_074, shape torch.Size([1, 467, 543, 349]), rank 0 
+2026-05-11 01:52:34.679258: predicting tumor_075 
+2026-05-11 01:52:36.236008: tumor_075, shape torch.Size([1, 487, 567, 596]), rank 0 
+2026-05-11 01:53:30.972120: predicting tumor_077 
+2026-05-11 01:53:35.341149: tumor_077, shape torch.Size([1, 548, 637, 628]), rank 0 
+2026-05-11 01:54:45.742693: predicting tumor_082 
+2026-05-11 01:54:47.869571: tumor_082, shape torch.Size([1, 416, 484, 334]), rank 0 
+2026-05-11 01:55:10.685189: predicting tumor_087 
+2026-05-11 01:55:11.711495: tumor_087, shape torch.Size([1, 548, 637, 316]), rank 0 
+2026-05-11 01:55:42.935201: predicting tumor_091 
+2026-05-11 01:55:45.633968: tumor_091, shape torch.Size([1, 455, 529, 329]), rank 0 
+2026-05-11 01:56:15.970037: predicting tumor_093 
+2026-05-11 01:56:16.663893: tumor_093, shape torch.Size([1, 394, 459, 432]), rank 0 
+2026-05-11 01:56:43.952767: predicting tumor_105 
+2026-05-11 01:56:46.210134: tumor_105, shape torch.Size([1, 357, 415, 759]), rank 0 
+2026-05-11 01:57:21.964489: predicting tumor_109 
+2026-05-11 01:57:23.782335: tumor_109, shape torch.Size([1, 462, 537, 455]), rank 0 
+2026-05-11 01:58:06.205701: predicting tumor_111 
+2026-05-11 01:58:07.873231: tumor_111, shape torch.Size([1, 482, 560, 603]), rank 0 
+2026-05-11 01:59:04.230590: predicting tumor_116 
+2026-05-11 01:59:05.283927: tumor_116, shape torch.Size([1, 384, 447, 514]), rank 0 
+2026-05-11 01:59:31.445338: predicting tumor_123 
+2026-05-11 01:59:31.971316: tumor_123, shape torch.Size([1, 423, 492, 306]), rank 0 
+2026-05-11 01:59:50.195925: predicting tumor_128 
+2026-05-11 01:59:50.565450: tumor_128, shape torch.Size([1, 301, 350, 220]), rank 0 
+2026-05-11 01:59:57.100673: predicting tumor_135 
+2026-05-11 01:59:58.585789: tumor_135, shape torch.Size([1, 429, 499, 595]), rank 0 
+2026-05-11 02:00:39.617482: predicting tumor_136 
+2026-05-11 02:00:40.358843: tumor_136, shape torch.Size([1, 387, 450, 325]), rank 0 
+2026-05-11 02:01:03.122782: predicting tumor_137 
+2026-05-11 02:01:05.394753: tumor_137, shape torch.Size([1, 540, 628, 597]), rank 0 
+2026-05-11 02:02:15.654640: predicting tumor_143 
+2026-05-11 02:02:16.701217: tumor_143, shape torch.Size([1, 510, 594, 500]), rank 0 
+2026-05-11 02:03:07.611587: predicting tumor_144 
+2026-05-11 02:03:09.864334: tumor_144, shape torch.Size([1, 394, 459, 487]), rank 0 
+2026-05-11 02:03:41.770349: predicting tumor_145 
+2026-05-11 02:03:42.561069: tumor_145, shape torch.Size([1, 394, 459, 551]), rank 0 
+2026-05-11 02:04:18.984367: predicting tumor_148 
+2026-05-11 02:04:20.465590: tumor_148, shape torch.Size([1, 434, 504, 910]), rank 0 
+2026-05-11 02:05:26.410131: predicting tumor_149 
+2026-05-11 02:05:27.534399: tumor_149, shape torch.Size([1, 468, 544, 546]), rank 0 
+2026-05-11 02:06:20.291566: predicting tumor_151 
+2026-05-11 02:06:22.829665: tumor_151, shape torch.Size([1, 501, 582, 398]), rank 0 
+2026-05-11 02:07:03.772905: predicting tumor_159 
+2026-05-11 02:07:04.835868: tumor_159, shape torch.Size([1, 436, 507, 563]), rank 0 
+2026-05-11 02:09:25.934480: Validation complete 
+2026-05-11 02:09:25.937212: Mean Validation Dice:  0.5476266549945805 

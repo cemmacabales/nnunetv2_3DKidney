@@ -1,0 +1,2724 @@
+{
+    "foreground_mean": {
+        "Dice": 0.7016073007738312,
+        "FN": 7176.534482758621,
+        "FP": 9232.711206896553,
+        "IoU": 0.6201367632427915,
+        "TN": 82020305.65517241,
+        "TP": 127350.20258620688,
+        "n_pred": 136582.91379310345,
+        "n_ref": 134526.7370689655
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.9512657954032472,
+            "FN": 16800.5,
+            "FP": 27711.08620689655,
+            "IoU": 0.9167436706419826,
+            "TN": 81651092.8275862,
+            "TP": 468460.6896551724,
+            "n_pred": 496171.775862069,
+            "n_ref": 485261.1896551724
+        },
+        "2": {
+            "Dice": 0.526099582755128,
+            "FN": 7539.362068965517,
+            "FP": 3297.603448275862,
+            "IoU": 0.43191244472933343,
+            "TN": 82144148.3275862,
+            "TP": 9079.810344827587,
+            "n_pred": 12377.413793103447,
+            "n_ref": 16619.172413793105
+        },
+        "3": {
+            "Dice": 0.5766380400001778,
+            "FN": 49.0,
+            "FP": 14.224137931034482,
+            "IoU": 0.4624860052104382,
+            "TN": 82163927.13793103,
+            "TP": 74.74137931034483,
+            "n_pred": 88.96551724137932,
+            "n_ref": 123.74137931034483
+        },
+        "4": {
+            "Dice": 0.7524257849367717,
+            "FN": 4317.275862068966,
+            "FP": 5907.931034482759,
+            "IoU": 0.6694049323894117,
+            "TN": 82122054.3275862,
+            "TP": 31785.568965517243,
+            "n_pred": 37693.5,
+            "n_ref": 36102.84482758621
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9715089325428907,
+                    "FN": 11101,
+                    "FP": 16634,
+                    "IoU": 0.9445963735444937,
+                    "TN": 49044617,
+                    "TP": 472864,
+                    "n_pred": 489498,
+                    "n_ref": 483965
+                },
+                "2": {
+                    "Dice": 0.4343247863247863,
+                    "FN": 6443,
+                    "FP": 1830,
+                    "IoU": 0.27740414009957204,
+                    "TN": 49533767,
+                    "TP": 3176,
+                    "n_pred": 5006,
+                    "n_ref": 9619
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 49545216,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 4750,
+                    "IoU": 0.0,
+                    "TN": 49540466,
+                    "TP": 0,
+                    "n_pred": 4750,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/cyst_001.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/cyst_001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9720492392199594,
+                    "FN": 8328,
+                    "FP": 9217,
+                    "IoU": 0.9456184832066653,
+                    "TN": 40833980,
+                    "TP": 305083,
+                    "n_pred": 314300,
+                    "n_ref": 313411
+                },
+                "2": {
+                    "Dice": 0.7894736842105263,
+                    "FN": 9,
+                    "FP": 39,
+                    "IoU": 0.6521739130434783,
+                    "TN": 41156470,
+                    "TP": 90,
+                    "n_pred": 129,
+                    "n_ref": 99
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 41156608,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 41156608,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/cyst_002.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/cyst_002.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.96779491617354,
+                    "FN": 13605,
+                    "FP": 7533,
+                    "IoU": 0.9375994473751798,
+                    "TN": 46060741,
+                    "TP": 317609,
+                    "n_pred": 325142,
+                    "n_ref": 331214
+                },
+                "2": {
+                    "Dice": 0.8171837708830549,
+                    "FN": 302,
+                    "FP": 81,
+                    "IoU": 0.6908797417271993,
+                    "TN": 46398249,
+                    "TP": 856,
+                    "n_pred": 937,
+                    "n_ref": 1158
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 46399488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 46399488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/cyst_004.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/cyst_004.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9764323331636061,
+                    "FN": 9544,
+                    "FP": 9757,
+                    "IoU": 0.9539499583662387,
+                    "TN": 42834629,
+                    "TP": 399830,
+                    "n_pred": 409587,
+                    "n_ref": 409374
+                },
+                "2": {
+                    "Dice": 0.36363636363636365,
+                    "FN": 12,
+                    "FP": 296,
+                    "IoU": 0.2222222222222222,
+                    "TN": 43253364,
+                    "TP": 88,
+                    "n_pred": 384,
+                    "n_ref": 100
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 43253760,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 43253760,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/cyst_013.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/cyst_013.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9717647567951695,
+                    "FN": 9923,
+                    "FP": 14870,
+                    "IoU": 0.9450801878433457,
+                    "TN": 40705168,
+                    "TP": 426647,
+                    "n_pred": 441517,
+                    "n_ref": 436570
+                },
+                "2": {
+                    "Dice": 0.6626746506986028,
+                    "FN": 334,
+                    "FP": 4,
+                    "IoU": 0.4955223880597015,
+                    "TN": 41155938,
+                    "TP": 332,
+                    "n_pred": 336,
+                    "n_ref": 666
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 41156608,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 41156608,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/cyst_024.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/cyst_024.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.947242678098699,
+                    "FN": 13323,
+                    "FP": 24482,
+                    "IoU": 0.8997730610773236,
+                    "TN": 43138710,
+                    "TP": 339389,
+                    "n_pred": 363871,
+                    "n_ref": 352712
+                },
+                "2": {
+                    "Dice": 0.8302473034076844,
+                    "FN": 12257,
+                    "FP": 1183,
+                    "IoU": 0.7097631027706395,
+                    "TN": 43469597,
+                    "TP": 32867,
+                    "n_pred": 34050,
+                    "n_ref": 45124
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 43515904,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 43515904,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/cyst_025.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/cyst_025.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.903901741945987,
+                    "FN": 10837,
+                    "FP": 15726,
+                    "IoU": 0.8246539352692275,
+                    "TN": 81113151,
+                    "TP": 124926,
+                    "n_pred": 140652,
+                    "n_ref": 135763
+                },
+                "2": {
+                    "Dice": 0.8657424753340827,
+                    "FN": 60060,
+                    "FP": 1215,
+                    "IoU": 0.7632680026425898,
+                    "TN": 81005803,
+                    "TP": 197562,
+                    "n_pred": 198777,
+                    "n_ref": 257622
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 81264640,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 81264640,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/cyst_026.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/cyst_026.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9604476662851329,
+                    "FN": 7968,
+                    "FP": 13180,
+                    "IoU": 0.9239050648397358,
+                    "TN": 80986724,
+                    "TP": 256768,
+                    "n_pred": 269948,
+                    "n_ref": 264736
+                },
+                "2": {
+                    "Dice": 0.8811070319118893,
+                    "FN": 173,
+                    "FP": 248,
+                    "IoU": 0.7874810701665825,
+                    "TN": 81262659,
+                    "TP": 1560,
+                    "n_pred": 1808,
+                    "n_ref": 1733
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 81264640,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 81264640,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/cyst_028.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/cyst_028.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9731072512922142,
+                    "FN": 15257,
+                    "FP": 11829,
+                    "IoU": 0.9476230624052474,
+                    "TN": 45882352,
+                    "TP": 490050,
+                    "n_pred": 501879,
+                    "n_ref": 505307
+                },
+                "2": {
+                    "Dice": 0.9008539325842697,
+                    "FN": 502,
+                    "FP": 601,
+                    "IoU": 0.8195943735688583,
+                    "TN": 46393374,
+                    "TP": 5011,
+                    "n_pred": 5612,
+                    "n_ref": 5513
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 46399488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 46399488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/cyst_048.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/cyst_048.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9751661600288526,
+                    "FN": 5566,
+                    "FP": 6002,
+                    "IoU": 0.9515358704941933,
+                    "TN": 40917916,
+                    "TP": 227124,
+                    "n_pred": 233126,
+                    "n_ref": 232690
+                },
+                "2": {
+                    "Dice": 0.8975806451612903,
+                    "FN": 63,
+                    "FP": 445,
+                    "IoU": 0.8141916605705926,
+                    "TN": 41153874,
+                    "TP": 2226,
+                    "n_pred": 2671,
+                    "n_ref": 2289
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 41156608,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.895978776877967,
+                    "FN": 418,
+                    "FP": 1072,
+                    "IoU": 0.811559377766536,
+                    "TN": 41148701,
+                    "TP": 6417,
+                    "n_pred": 7489,
+                    "n_ref": 6835
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_001.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9767574860772567,
+                    "FN": 4119,
+                    "FP": 4253,
+                    "IoU": 0.9545708595831502,
+                    "TN": 49360929,
+                    "TP": 175915,
+                    "n_pred": 180168,
+                    "n_ref": 180034
+                },
+                "2": {
+                    "Dice": 0.8418266048974189,
+                    "FN": 38,
+                    "FP": 201,
+                    "IoU": 0.7268571428571429,
+                    "TN": 49544341,
+                    "TP": 636,
+                    "n_pred": 837,
+                    "n_ref": 674
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 49545216,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.8978269458711972,
+                    "FN": 398,
+                    "FP": 895,
+                    "IoU": 0.8145970748494408,
+                    "TN": 49538242,
+                    "TP": 5681,
+                    "n_pred": 6576,
+                    "n_ref": 6079
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_006.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_006.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9703687717647722,
+                    "FN": 15812,
+                    "FP": 59841,
+                    "IoU": 0.9424430273234521,
+                    "TN": 136835486,
+                    "TP": 1238749,
+                    "n_pred": 1298590,
+                    "n_ref": 1254561
+                },
+                "2": {
+                    "Dice": 0.7553125484721576,
+                    "FN": 10703,
+                    "FP": 1917,
+                    "IoU": 0.6068290859243567,
+                    "TN": 138117790,
+                    "TP": 19478,
+                    "n_pred": 21395,
+                    "n_ref": 30181
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 138149888,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.7477018168933682,
+                    "FN": 12110,
+                    "FP": 707,
+                    "IoU": 0.5970637241032413,
+                    "TN": 138118079,
+                    "TP": 18992,
+                    "n_pred": 19699,
+                    "n_ref": 31102
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_011.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_011.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.969364626257126,
+                    "FN": 12550,
+                    "FP": 5791,
+                    "IoU": 0.9405505098634097,
+                    "TN": 17779422,
+                    "TP": 290173,
+                    "n_pred": 295964,
+                    "n_ref": 302723
+                },
+                "2": {
+                    "Dice": 0.9364467481051233,
+                    "FN": 4648,
+                    "FP": 232,
+                    "IoU": 0.8804888203169006,
+                    "TN": 18047103,
+                    "TP": 35953,
+                    "n_pred": 36185,
+                    "n_ref": 40601
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 18087936,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.8592020855163953,
+                    "FN": 396,
+                    "FP": 5113,
+                    "IoU": 0.7531588852047675,
+                    "TN": 18065618,
+                    "TP": 16809,
+                    "n_pred": 21922,
+                    "n_ref": 17205
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_028.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_028.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9695372108569107,
+                    "FN": 16350,
+                    "FP": 4567,
+                    "IoU": 0.9408755183320661,
+                    "TN": 74357261,
+                    "TP": 332862,
+                    "n_pred": 337429,
+                    "n_ref": 349212
+                },
+                "2": {
+                    "Dice": 0.5404996214988645,
+                    "FN": 593,
+                    "FP": 14,
+                    "IoU": 0.3703319502074689,
+                    "TN": 74710076,
+                    "TP": 357,
+                    "n_pred": 371,
+                    "n_ref": 950
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 74711040,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.7962238705327039,
+                    "FN": 695,
+                    "FP": 816,
+                    "IoU": 0.6614384942863545,
+                    "TN": 74706577,
+                    "TP": 2952,
+                    "n_pred": 3768,
+                    "n_ref": 3647
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_029.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_029.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9795490696592976,
+                    "FN": 8672,
+                    "FP": 1575,
+                    "IoU": 0.9599178564443576,
+                    "TN": 53746014,
+                    "TP": 245403,
+                    "n_pred": 246978,
+                    "n_ref": 254075
+                },
+                "2": {
+                    "Dice": 0.8019323671497585,
+                    "FN": 133,
+                    "FP": 72,
+                    "IoU": 0.6693548387096774,
+                    "TN": 54001044,
+                    "TP": 415,
+                    "n_pred": 487,
+                    "n_ref": 548
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 54001664,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.9220997857361494,
+                    "FN": 648,
+                    "FP": 370,
+                    "IoU": 0.8554593213119409,
+                    "TN": 53994621,
+                    "TP": 6025,
+                    "n_pred": 6395,
+                    "n_ref": 6673
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_034.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_034.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9675736234328175,
+                    "FN": 4950,
+                    "FP": 3241,
+                    "IoU": 0.9371841376718789,
+                    "TN": 15860387,
+                    "TP": 122206,
+                    "n_pred": 125447,
+                    "n_ref": 127156
+                },
+                "2": {
+                    "Dice": 0.6120911114916938,
+                    "FN": 1965,
+                    "FP": 300,
+                    "IoU": 0.4410167818361303,
+                    "TN": 15986732,
+                    "TP": 1787,
+                    "n_pred": 2087,
+                    "n_ref": 3752
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 15990784,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.9171216422799738,
+                    "FN": 883,
+                    "FP": 2153,
+                    "IoU": 0.8469295149742866,
+                    "TN": 15970950,
+                    "TP": 16798,
+                    "n_pred": 18951,
+                    "n_ref": 17681
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_036.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_036.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9830462129665484,
+                    "FN": 30962,
+                    "FP": 31165,
+                    "IoU": 0.9666577041167085,
+                    "TN": 150442355,
+                    "TP": 1801182,
+                    "n_pred": 1832347,
+                    "n_ref": 1832144
+                },
+                "2": {
+                    "Dice": 0.9626877157494338,
+                    "FN": 2933,
+                    "FP": 2158,
+                    "IoU": 0.9280596888380177,
+                    "TN": 152234897,
+                    "TP": 65676,
+                    "n_pred": 67834,
+                    "n_ref": 68609
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 152305664,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.8419000866300895,
+                    "FN": 4183,
+                    "FP": 197,
+                    "IoU": 0.7269667123800025,
+                    "TN": 152289622,
+                    "TP": 11662,
+                    "n_pred": 11859,
+                    "n_ref": 15845
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_040.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_040.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9493648187280904,
+                    "FN": 4401,
+                    "FP": 10000,
+                    "IoU": 0.9036103451045487,
+                    "TN": 22394980,
+                    "TP": 135003,
+                    "n_pred": 145003,
+                    "n_ref": 139404
+                },
+                "2": {
+                    "Dice": 0.8031233851983695,
+                    "FN": 2036,
+                    "FP": 1393,
+                    "IoU": 0.6710160222584669,
+                    "TN": 22533961,
+                    "TP": 6994,
+                    "n_pred": 8387,
+                    "n_ref": 9030
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 22544384,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.9100957053960466,
+                    "FN": 12691,
+                    "FP": 1381,
+                    "IoU": 0.8350235061022075,
+                    "TN": 22459087,
+                    "TP": 71225,
+                    "n_pred": 72606,
+                    "n_ref": 83916
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_042.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_042.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9467380939137311,
+                    "FN": 88621,
+                    "FP": 44478,
+                    "IoU": 0.8988629403978341,
+                    "TN": 276294470,
+                    "TP": 1182927,
+                    "n_pred": 1227405,
+                    "n_ref": 1271548
+                },
+                "2": {
+                    "Dice": 0.8021809833556534,
+                    "FN": 1340,
+                    "FP": 2796,
+                    "IoU": 0.6697013256668264,
+                    "TN": 277597974,
+                    "TP": 8386,
+                    "n_pred": 11182,
+                    "n_ref": 9726
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 277610496,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.9416419492803253,
+                    "FN": 18508,
+                    "FP": 68574,
+                    "IoU": 0.8897196451049969,
+                    "TN": 276820854,
+                    "TP": 702560,
+                    "n_pred": 771134,
+                    "n_ref": 721068
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_043.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_043.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9757742519178717,
+                    "FN": 7053,
+                    "FP": 9147,
+                    "IoU": 0.9526945146077587,
+                    "TN": 17745481,
+                    "TP": 326255,
+                    "n_pred": 335402,
+                    "n_ref": 333308
+                },
+                "2": {
+                    "Dice": 0.49469964664310956,
+                    "FN": 91,
+                    "FP": 195,
+                    "IoU": 0.3286384976525822,
+                    "TN": 18087510,
+                    "TP": 140,
+                    "n_pred": 335,
+                    "n_ref": 231
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 18087936,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.8806231563421829,
+                    "FN": 3650,
+                    "FP": 1530,
+                    "IoU": 0.7867083916659804,
+                    "TN": 18063650,
+                    "TP": 19106,
+                    "n_pred": 20636,
+                    "n_ref": 22756
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_044.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_044.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9713612772027802,
+                    "FN": 18161,
+                    "FP": 29017,
+                    "IoU": 0.9443172376024475,
+                    "TN": 122360416,
+                    "TP": 800086,
+                    "n_pred": 829103,
+                    "n_ref": 818247
+                },
+                "2": {
+                    "Dice": 0.8251134419400431,
+                    "FN": 1231,
+                    "FP": 1120,
+                    "IoU": 0.7022920096239078,
+                    "TN": 123199783,
+                    "TP": 5546,
+                    "n_pred": 6666,
+                    "n_ref": 6777
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 123207680,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.9561210945476822,
+                    "FN": 1438,
+                    "FP": 2000,
+                    "IoU": 0.9159310429147818,
+                    "TN": 123166785,
+                    "TP": 37457,
+                    "n_pred": 39457,
+                    "n_ref": 38895
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_045.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_045.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.933257526144139,
+                    "FN": 18644,
+                    "FP": 113537,
+                    "IoU": 0.8748667546448905,
+                    "TN": 139977150,
+                    "TP": 924141,
+                    "n_pred": 1037678,
+                    "n_ref": 942785
+                },
+                "2": {
+                    "Dice": 0.04581129254829807,
+                    "FN": 132598,
+                    "FP": 164,
+                    "IoU": 0.02344261450985296,
+                    "TN": 140897523,
+                    "TP": 3187,
+                    "n_pred": 3351,
+                    "n_ref": 135785
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 141033472,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.9529242416164632,
+                    "FN": 1531,
+                    "FP": 235,
+                    "IoU": 0.910081466395112,
+                    "TN": 141013832,
+                    "TP": 17874,
+                    "n_pred": 18109,
+                    "n_ref": 19405
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_046.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_046.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9726645752517736,
+                    "FN": 19155,
+                    "FP": 53786,
+                    "IoU": 0.946783836924682,
+                    "TN": 183440865,
+                    "TP": 1297714,
+                    "n_pred": 1351500,
+                    "n_ref": 1316869
+                },
+                "2": {
+                    "Dice": 0.08943089430894309,
+                    "FN": 162,
+                    "FP": 734,
+                    "IoU": 0.04680851063829787,
+                    "TN": 184810580,
+                    "TP": 44,
+                    "n_pred": 778,
+                    "n_ref": 206
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 184811520,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.9083401151400067,
+                    "FN": 574,
+                    "FP": 2467,
+                    "IoU": 0.8320724501629024,
+                    "TN": 184793411,
+                    "TP": 15068,
+                    "n_pred": 17535,
+                    "n_ref": 15642
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_048.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_048.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9688897626852062,
+                    "FN": 16334,
+                    "FP": 29555,
+                    "IoU": 0.9396568161406084,
+                    "TN": 94922093,
+                    "TP": 714578,
+                    "n_pred": 744133,
+                    "n_ref": 730912
+                },
+                "2": {
+                    "Dice": 0.5945125037966994,
+                    "FN": 3344,
+                    "FP": 4666,
+                    "IoU": 0.4229938049272439,
+                    "TN": 95668678,
+                    "TP": 5872,
+                    "n_pred": 10538,
+                    "n_ref": 9216
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 95682560,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.0,
+                    "FN": 6213,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 95676347,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 6213
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_054.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_054.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9717937697110824,
+                    "FN": 10004,
+                    "FP": 5549,
+                    "IoU": 0.9451350722101891,
+                    "TN": 70233258,
+                    "TP": 267925,
+                    "n_pred": 273474,
+                    "n_ref": 277929
+                },
+                "2": {
+                    "Dice": 0.9569354470602693,
+                    "FN": 1941,
+                    "FP": 512,
+                    "IoU": 0.9174268690880937,
+                    "TN": 70487029,
+                    "TP": 27254,
+                    "n_pred": 27766,
+                    "n_ref": 29195
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 70516736,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.8044707429322814,
+                    "FN": 1410,
+                    "FP": 77,
+                    "IoU": 0.6728992520897492,
+                    "TN": 70512190,
+                    "TP": 3059,
+                    "n_pred": 3136,
+                    "n_ref": 4469
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_059.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_059.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.950274676894927,
+                    "FN": 2131,
+                    "FP": 21023,
+                    "IoU": 0.9052603152261084,
+                    "TN": 45368660,
+                    "TP": 221242,
+                    "n_pred": 242265,
+                    "n_ref": 223373
+                },
+                "2": {
+                    "Dice": 0.12270895619394255,
+                    "FN": 13484,
+                    "FP": 14,
+                    "IoU": 0.06536490790749204,
+                    "TN": 45598614,
+                    "TP": 944,
+                    "n_pred": 958,
+                    "n_ref": 14428
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 45613056,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.6565008025682183,
+                    "FN": 5983,
+                    "FP": 9,
+                    "IoU": 0.4886499402628435,
+                    "TN": 45601338,
+                    "TP": 5726,
+                    "n_pred": 5735,
+                    "n_ref": 11709
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_067.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_067.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9823765802051285,
+                    "FN": 4020,
+                    "FP": 7654,
+                    "IoU": 0.9653635727086077,
+                    "TN": 41343852,
+                    "TP": 325370,
+                    "n_pred": 333024,
+                    "n_ref": 329390
+                },
+                "2": {
+                    "Dice": 0.6217552533992583,
+                    "FN": 335,
+                    "FP": 277,
+                    "IoU": 0.45112107623318387,
+                    "TN": 41679781,
+                    "TP": 503,
+                    "n_pred": 780,
+                    "n_ref": 838
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 41680896,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.919054441260745,
+                    "FN": 1483,
+                    "FP": 777,
+                    "IoU": 0.8502319416832339,
+                    "TN": 41665806,
+                    "TP": 12830,
+                    "n_pred": 13607,
+                    "n_ref": 14313
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_072.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_072.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9580405175593656,
+                    "FN": 5768,
+                    "FP": 2991,
+                    "IoU": 0.9194604336392225,
+                    "TN": 74340142,
+                    "TP": 99995,
+                    "n_pred": 102986,
+                    "n_ref": 105763
+                },
+                "2": {
+                    "Dice": 0.5792474344355758,
+                    "FN": 54,
+                    "FP": 315,
+                    "IoU": 0.40770465489566615,
+                    "TN": 74448273,
+                    "TP": 254,
+                    "n_pred": 569,
+                    "n_ref": 308
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 74448896,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.9050069113807403,
+                    "FN": 2350,
+                    "FP": 124,
+                    "IoU": 0.8264955466722772,
+                    "TN": 74434637,
+                    "TP": 11785,
+                    "n_pred": 11909,
+                    "n_ref": 14135
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_076.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_076.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9662897895964763,
+                    "FN": 18451,
+                    "FP": 16111,
+                    "IoU": 0.934778219148354,
+                    "TN": 61860357,
+                    "TP": 495353,
+                    "n_pred": 511464,
+                    "n_ref": 513804
+                },
+                "2": {
+                    "Dice": 0.5022026431718062,
+                    "FN": 93,
+                    "FP": 20,
+                    "IoU": 0.3352941176470588,
+                    "TN": 62390102,
+                    "TP": 57,
+                    "n_pred": 77,
+                    "n_ref": 150
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 62390272,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.8933166566969384,
+                    "FN": 9553,
+                    "FP": 256,
+                    "IoU": 0.8072016824891405,
+                    "TN": 62339395,
+                    "TP": 41068,
+                    "n_pred": 41324,
+                    "n_ref": 50621
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_081.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_081.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9798301882875589,
+                    "FN": 4224,
+                    "FP": 5492,
+                    "IoU": 0.9604579326287173,
+                    "TN": 13910063,
+                    "TP": 235997,
+                    "n_pred": 241489,
+                    "n_ref": 240221
+                },
+                "2": {
+                    "Dice": 0.36358253145817915,
+                    "FN": 362,
+                    "FP": 3937,
+                    "IoU": 0.2221820155599783,
+                    "TN": 14150249,
+                    "TP": 1228,
+                    "n_pred": 5165,
+                    "n_ref": 1590
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 14155776,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.8540577211182406,
+                    "FN": 4380,
+                    "FP": 783,
+                    "IoU": 0.7452886038480513,
+                    "TN": 14135506,
+                    "TP": 15107,
+                    "n_pred": 15890,
+                    "n_ref": 19487
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_085.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_085.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8786490606378556,
+                    "FN": 3375,
+                    "FP": 27274,
+                    "IoU": 0.7835629594582189,
+                    "TN": 37082841,
+                    "TP": 110958,
+                    "n_pred": 138232,
+                    "n_ref": 114333
+                },
+                "2": {
+                    "Dice": 0.5097655816020442,
+                    "FN": 455,
+                    "FP": 21608,
+                    "IoU": 0.342070734180235,
+                    "TN": 37190914,
+                    "TP": 11471,
+                    "n_pred": 33079,
+                    "n_ref": 11926
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 37224448,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.19789375024408024,
+                    "FN": 61455,
+                    "FP": 162,
+                    "IoU": 0.10981247652344765,
+                    "TN": 37155230,
+                    "TP": 7601,
+                    "n_pred": 7763,
+                    "n_ref": 69056
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_089.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_089.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9526062601753144,
+                    "FN": 10560,
+                    "FP": 15203,
+                    "IoU": 0.9095015789714028,
+                    "TN": 27502585,
+                    "TP": 258916,
+                    "n_pred": 274119,
+                    "n_ref": 269476
+                },
+                "2": {
+                    "Dice": 0.8547035448715427,
+                    "FN": 2713,
+                    "FP": 980,
+                    "IoU": 0.746272758502233,
+                    "TN": 27772709,
+                    "TP": 10862,
+                    "n_pred": 11842,
+                    "n_ref": 13575
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 27787264,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.9426692686902887,
+                    "FN": 9871,
+                    "FP": 4759,
+                    "IoU": 0.8915557268657159,
+                    "TN": 27652356,
+                    "TP": 120278,
+                    "n_pred": 125037,
+                    "n_ref": 130149
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_091.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_091.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9749911749531593,
+                    "FN": 16919,
+                    "FP": 5185,
+                    "IoU": 0.951202712726502,
+                    "TN": 58529424,
+                    "TP": 430872,
+                    "n_pred": 436057,
+                    "n_ref": 447791
+                },
+                "2": {
+                    "Dice": 0.9170045958367127,
+                    "FN": 1147,
+                    "FP": 388,
+                    "IoU": 0.8467299051422865,
+                    "TN": 58972385,
+                    "TP": 8480,
+                    "n_pred": 8868,
+                    "n_ref": 9627
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 58982400,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.7826767545003913,
+                    "FN": 1367,
+                    "FP": 299,
+                    "IoU": 0.6429489927132448,
+                    "TN": 58977734,
+                    "TP": 3000,
+                    "n_pred": 3299,
+                    "n_ref": 4367
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_100.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_100.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.895955810703209,
+                    "FN": 67472,
+                    "FP": 25955,
+                    "IoU": 0.8115216939585347,
+                    "TN": 84701109,
+                    "TP": 402264,
+                    "n_pred": 428219,
+                    "n_ref": 469736
+                },
+                "2": {
+                    "Dice": 0.35769668734614424,
+                    "FN": 102729,
+                    "FP": 33210,
+                    "IoU": 0.21780184244293432,
+                    "TN": 85023009,
+                    "TP": 37852,
+                    "n_pred": 71062,
+                    "n_ref": 140581
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 85196800,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.014589434150569264,
+                    "FN": 6537,
+                    "FP": 143543,
+                    "IoU": 0.007348320997942999,
+                    "TN": 85045609,
+                    "TP": 1111,
+                    "n_pred": 144654,
+                    "n_ref": 7648
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_106.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_106.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.2650297980650821,
+                    "FN": 76713,
+                    "FP": 637093,
+                    "IoU": 0.15275755040029437,
+                    "TN": 99034359,
+                    "TP": 128699,
+                    "n_pred": 765792,
+                    "n_ref": 205412
+                },
+                "2": {
+                    "Dice": 0.3486255778383505,
+                    "FN": 71455,
+                    "FP": 4776,
+                    "IoU": 0.21111237594560753,
+                    "TN": 99780233,
+                    "TP": 20400,
+                    "n_pred": 25176,
+                    "n_ref": 91855
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 99876864,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.8818260022498781,
+                    "FN": 71264,
+                    "FP": 82318,
+                    "IoU": 0.7886303956487991,
+                    "TN": 99150260,
+                    "TP": 573022,
+                    "n_pred": 655340,
+                    "n_ref": 644286
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_107.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_107.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9772528751790817,
+                    "FN": 22958,
+                    "FP": 5844,
+                    "IoU": 0.9555175971286132,
+                    "TN": 119938748,
+                    "TP": 618690,
+                    "n_pred": 624534,
+                    "n_ref": 641648
+                },
+                "2": {
+                    "Dice": 0.8520325203252033,
+                    "FN": 148,
+                    "FP": 1490,
+                    "IoU": 0.7422096317280453,
+                    "TN": 120579886,
+                    "TP": 4716,
+                    "n_pred": 6206,
+                    "n_ref": 4864
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 120586240,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.7852969672058953,
+                    "FN": 558,
+                    "FP": 6755,
+                    "IoU": 0.64649296659738,
+                    "TN": 120565553,
+                    "TP": 13374,
+                    "n_pred": 20129,
+                    "n_ref": 13932
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_114.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_114.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9842535419209193,
+                    "FN": 5083,
+                    "FP": 4452,
+                    "IoU": 0.9689952980808626,
+                    "TN": 66014898,
+                    "TP": 297999,
+                    "n_pred": 302451,
+                    "n_ref": 303082
+                },
+                "2": {
+                    "Dice": 0.8717731696995344,
+                    "FN": 388,
+                    "FP": 218,
+                    "IoU": 0.7726931732933233,
+                    "TN": 66319766,
+                    "TP": 2060,
+                    "n_pred": 2278,
+                    "n_ref": 2448
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 66322432,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.9460821219667574,
+                    "FN": 1117,
+                    "FP": 1676,
+                    "IoU": 0.8976810638531707,
+                    "TN": 66295135,
+                    "TP": 24504,
+                    "n_pred": 26180,
+                    "n_ref": 25621
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_118.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_118.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9755771856892173,
+                    "FN": 25084,
+                    "FP": 4032,
+                    "IoU": 0.9523188785536486,
+                    "TN": 118402736,
+                    "TP": 581524,
+                    "n_pred": 585556,
+                    "n_ref": 606608
+                },
+                "2": {
+                    "Dice": 0.8462525196994686,
+                    "FN": 9,
+                    "FP": 830,
+                    "IoU": 0.7334815756035579,
+                    "TN": 119010228,
+                    "TP": 2309,
+                    "n_pred": 3139,
+                    "n_ref": 2318
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 119013376,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.8550553853405609,
+                    "FN": 310,
+                    "FP": 1535,
+                    "IoU": 0.746809386578839,
+                    "TN": 119006089,
+                    "TP": 5442,
+                    "n_pred": 6977,
+                    "n_ref": 5752
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/multi_119.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/multi_119.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9681915936938617,
+                    "FN": 15280,
+                    "FP": 32138,
+                    "IoU": 0.9383443551889405,
+                    "TN": 157303754,
+                    "TP": 721660,
+                    "n_pred": 753798,
+                    "n_ref": 736940
+                },
+                "2": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 158072832,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.9210383991346673,
+                    "FN": 237,
+                    "FP": 55,
+                    "IoU": 0.8536340852130326,
+                    "TN": 158070837,
+                    "TP": 1703,
+                    "n_pred": 1758,
+                    "n_ref": 1940
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 158072832,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_000.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9747559940295526,
+                    "FN": 8524,
+                    "FP": 9674,
+                    "IoU": 0.9507551259535478,
+                    "TN": 88759419,
+                    "TP": 351343,
+                    "n_pred": 361017,
+                    "n_ref": 359867
+                },
+                "2": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 89128960,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.7429519071310116,
+                    "FN": 96,
+                    "FP": 59,
+                    "IoU": 0.5910290237467019,
+                    "TN": 89128581,
+                    "TP": 224,
+                    "n_pred": 283,
+                    "n_ref": 320
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 89128960,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_003.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_003.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9573809179062385,
+                    "FN": 4576,
+                    "FP": 15145,
+                    "IoU": 0.9182461114980267,
+                    "TN": 73159096,
+                    "TP": 221503,
+                    "n_pred": 236648,
+                    "n_ref": 226079
+                },
+                "2": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 73400320,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.7570093457943925,
+                    "FN": 25,
+                    "FP": 27,
+                    "IoU": 0.6090225563909775,
+                    "TN": 73400187,
+                    "TP": 81,
+                    "n_pred": 108,
+                    "n_ref": 106
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 73400320,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_004.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_004.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9734659388253281,
+                    "FN": 12921,
+                    "FP": 10960,
+                    "IoU": 0.9483035932693578,
+                    "TN": 74511237,
+                    "TP": 438066,
+                    "n_pred": 449026,
+                    "n_ref": 450987
+                },
+                "2": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 74973184,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.7917174177831913,
+                    "FN": 167,
+                    "FP": 4,
+                    "IoU": 0.655241935483871,
+                    "TN": 74972688,
+                    "TP": 325,
+                    "n_pred": 329,
+                    "n_ref": 492
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 74973184,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_009.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_009.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9709215070380888,
+                    "FN": 19213,
+                    "FP": 12059,
+                    "IoU": 0.9434863459672217,
+                    "TN": 135237239,
+                    "TP": 522081,
+                    "n_pred": 534140,
+                    "n_ref": 541294
+                },
+                "2": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 135790592,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.7297605473204105,
+                    "FN": 151,
+                    "FP": 86,
+                    "IoU": 0.5745062836624776,
+                    "TN": 135790035,
+                    "TP": 320,
+                    "n_pred": 406,
+                    "n_ref": 471
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 135790592,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_011.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_011.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.974380498970282,
+                    "FN": 9237,
+                    "FP": 8403,
+                    "IoU": 0.950040924526111,
+                    "TN": 62561471,
+                    "TP": 335449,
+                    "n_pred": 343852,
+                    "n_ref": 344686
+                },
+                "2": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 62914560,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.8897550111358574,
+                    "FN": 136,
+                    "FP": 62,
+                    "IoU": 0.8014042126379137,
+                    "TN": 62913563,
+                    "TP": 799,
+                    "n_pred": 861,
+                    "n_ref": 935
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 62914560,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_016.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_016.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.965645209320096,
+                    "FN": 15315,
+                    "FP": 9143,
+                    "IoU": 0.9335725207840496,
+                    "TN": 46031297,
+                    "TP": 343733,
+                    "n_pred": 352876,
+                    "n_ref": 359048
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 240,
+                    "IoU": 0.0,
+                    "TN": 46399248,
+                    "TP": 0,
+                    "n_pred": 240,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.49563318777292575,
+                    "FN": 52,
+                    "FP": 410,
+                    "IoU": 0.32946298984034833,
+                    "TN": 46398799,
+                    "TP": 227,
+                    "n_pred": 637,
+                    "n_ref": 279
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 46399488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_018.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_018.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9738199692563388,
+                    "FN": 12879,
+                    "FP": 7882,
+                    "IoU": 0.9489757548201581,
+                    "TN": 53332635,
+                    "TP": 386124,
+                    "n_pred": 394006,
+                    "n_ref": 399003
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 1677,
+                    "IoU": 0.0,
+                    "TN": 53737843,
+                    "TP": 0,
+                    "n_pred": 1677,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 254,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 53739266,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 254
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 53739520,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_026.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_026.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8666807827966343,
+                    "FN": 59683,
+                    "FP": 10206,
+                    "IoU": 0.7647278627598837,
+                    "TN": 117929888,
+                    "TP": 227167,
+                    "n_pred": 237373,
+                    "n_ref": 286850
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 90548,
+                    "IoU": 0.0,
+                    "TN": 118136396,
+                    "TP": 0,
+                    "n_pred": 90548,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 121,
+                    "FP": 6,
+                    "IoU": 0.0,
+                    "TN": 118226817,
+                    "TP": 0,
+                    "n_pred": 6,
+                    "n_ref": 121
+                },
+                "4": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 17,
+                    "IoU": 0.0,
+                    "TN": 118226927,
+                    "TP": 0,
+                    "n_pred": 17,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_027.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_027.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9628908983382165,
+                    "FN": 14774,
+                    "FP": 18106,
+                    "IoU": 0.9284374197423921,
+                    "TN": 71367998,
+                    "TP": 426578,
+                    "n_pred": 444684,
+                    "n_ref": 441352
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 2714,
+                    "IoU": 0.0,
+                    "TN": 71824742,
+                    "TP": 0,
+                    "n_pred": 2714,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.59375,
+                    "FN": 23,
+                    "FP": 3,
+                    "IoU": 0.4222222222222222,
+                    "TN": 71827411,
+                    "TP": 19,
+                    "n_pred": 22,
+                    "n_ref": 42
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 71827456,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_028.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_028.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.967667489646262,
+                    "FN": 14082,
+                    "FP": 6989,
+                    "IoU": 0.9373602787290716,
+                    "TN": 118676992,
+                    "TP": 315313,
+                    "n_pred": 322302,
+                    "n_ref": 329395
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 3689,
+                    "IoU": 0.0,
+                    "TN": 119009687,
+                    "TP": 0,
+                    "n_pred": 3689,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.7796610169491526,
+                    "FN": 0,
+                    "FP": 13,
+                    "IoU": 0.6388888888888888,
+                    "TN": 119013340,
+                    "TP": 23,
+                    "n_pred": 36,
+                    "n_ref": 23
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 119013376,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_034.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_034.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9696264252402794,
+                    "FN": 12551,
+                    "FP": 11195,
+                    "IoU": 0.9410435680732524,
+                    "TN": 91347628,
+                    "TP": 379026,
+                    "n_pred": 390221,
+                    "n_ref": 391577
+                },
+                "2": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 91750400,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.4628330995792426,
+                    "FN": 380,
+                    "FP": 3,
+                    "IoU": 0.3010948905109489,
+                    "TN": 91749852,
+                    "TP": 165,
+                    "n_pred": 168,
+                    "n_ref": 545
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 91750400,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_036.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_036.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9705800186775433,
+                    "FN": 14779,
+                    "FP": 11022,
+                    "IoU": 0.9428416353747826,
+                    "TN": 86318269,
+                    "TP": 425594,
+                    "n_pred": 436616,
+                    "n_ref": 440373
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 234,
+                    "IoU": 0.0,
+                    "TN": 86769430,
+                    "TP": 0,
+                    "n_pred": 234,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.5496402877697841,
+                    "FN": 245,
+                    "FP": 68,
+                    "IoU": 0.37896825396825395,
+                    "TN": 86769160,
+                    "TP": 191,
+                    "n_pred": 259,
+                    "n_ref": 436
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 86769664,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_044.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_044.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9759970803149925,
+                    "FN": 11246,
+                    "FP": 10063,
+                    "IoU": 0.953119431158671,
+                    "TN": 51187830,
+                    "TP": 433229,
+                    "n_pred": 443292,
+                    "n_ref": 444475
+                },
+                "2": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 51642368,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 728,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 51641640,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 728
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 51642368,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_050.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_050.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9732916501687222,
+                    "FN": 13749,
+                    "FP": 8848,
+                    "IoU": 0.9479728594090682,
+                    "TN": 85548901,
+                    "TP": 411734,
+                    "n_pred": 420582,
+                    "n_ref": 425483
+                },
+                "2": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 85983232,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.8723404255319149,
+                    "FN": 3,
+                    "FP": 9,
+                    "IoU": 0.7735849056603774,
+                    "TN": 85983179,
+                    "TP": 41,
+                    "n_pred": 50,
+                    "n_ref": 44
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 85983232,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_058.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_058.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9667031116281761,
+                    "FN": 10651,
+                    "FP": 11215,
+                    "IoU": 0.9355521365707582,
+                    "TN": 72274606,
+                    "TP": 317416,
+                    "n_pred": 328631,
+                    "n_ref": 328067
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 582,
+                    "IoU": 0.0,
+                    "TN": 72613306,
+                    "TP": 0,
+                    "n_pred": 582,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": 0.640117994100295,
+                    "FN": 224,
+                    "FP": 20,
+                    "IoU": 0.47071583514099785,
+                    "TN": 72613427,
+                    "TP": 217,
+                    "n_pred": 237,
+                    "n_ref": 441
+                },
+                "4": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 72613888,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/stone_067.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/stone_067.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9700988006122565,
+                    "FN": 11280,
+                    "FP": 46915,
+                    "IoU": 0.941933848789536,
+                    "TN": 140817685,
+                    "TP": 944024,
+                    "n_pred": 990939,
+                    "n_ref": 955304
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 137,
+                    "IoU": 0.0,
+                    "TN": 141819767,
+                    "TP": 0,
+                    "n_pred": 137,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 141819904,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.8533459645798794,
+                    "FN": 4994,
+                    "FP": 579,
+                    "IoU": 0.7442052600174416,
+                    "TN": 141798117,
+                    "TP": 16214,
+                    "n_pred": 16793,
+                    "n_ref": 21208
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_005.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/tumor_005.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9741018017695311,
+                    "FN": 7673,
+                    "FP": 27754,
+                    "IoU": 0.9495111731843575,
+                    "TN": 110185232,
+                    "TP": 666253,
+                    "n_pred": 694007,
+                    "n_ref": 673926
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 60,
+                    "IoU": 0.0,
+                    "TN": 110886852,
+                    "TP": 0,
+                    "n_pred": 60,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 110886912,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.8089639970609845,
+                    "FN": 2114,
+                    "FP": 486,
+                    "IoU": 0.6792103639728563,
+                    "TN": 110878807,
+                    "TP": 5505,
+                    "n_pred": 5991,
+                    "n_ref": 7619
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_006.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/tumor_006.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9805973995769677,
+                    "FN": 35180,
+                    "FP": 14208,
+                    "IoU": 0.9619333903700449,
+                    "TN": 138163198,
+                    "TP": 1248022,
+                    "n_pred": 1262230,
+                    "n_ref": 1283202
+                },
+                "2": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 139460608,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 139460608,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.9113476073712682,
+                    "FN": 1083,
+                    "FP": 2424,
+                    "IoU": 0.8371337017600892,
+                    "TN": 139439075,
+                    "TP": 18026,
+                    "n_pred": 20450,
+                    "n_ref": 19109
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_021.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/tumor_021.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.970034833596226,
+                    "FN": 26838,
+                    "FP": 12277,
+                    "IoU": 0.9418132430470433,
+                    "TN": 175750680,
+                    "TP": 633117,
+                    "n_pred": 645394,
+                    "n_ref": 659955
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 901,
+                    "IoU": 0.0,
+                    "TN": 176422011,
+                    "TP": 0,
+                    "n_pred": 901,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 176422912,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "4": {
+                    "Dice": 0.8949466708087398,
+                    "FN": 237,
+                    "FP": 3821,
+                    "IoU": 0.8098674038326383,
+                    "TN": 176401569,
+                    "TP": 17285,
+                    "n_pred": 21106,
+                    "n_ref": 17522
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset500_KidneyAbnormalities/nnUNet_results/Dataset500_KidneyAbnormalities/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_033.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset500_KidneyAbnormalities/gt_segmentations/tumor_033.nii.gz"
+        }
+    ]
+}

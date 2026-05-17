@@ -1,0 +1,954 @@
+{
+    "foreground_mean": {
+        "Dice": 0.0,
+        "FN": 711.5689655172414,
+        "FP": 0.0,
+        "IoU": 0.0,
+        "TN": 95424224.15517241,
+        "TP": 0.0,
+        "n_pred": 0.0,
+        "n_ref": 711.5689655172414
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.0,
+            "FN": 711.5689655172414,
+            "FP": 0.0,
+            "IoU": 0.0,
+            "TN": 95424224.15517241,
+            "TP": 0.0,
+            "n_pred": 0.0,
+            "n_ref": 711.5689655172414
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 99876864,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_000.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 54788096,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_003.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_003.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 46399488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_006.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_006.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 46399488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_007.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_007.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 41156608,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_008.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_008.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 46399488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_021.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_021.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 84410368,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_032.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_032.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 78118912,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_037.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_037.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 144965632,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_045.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_045.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 66322432,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_046.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_046.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 25165824,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_058.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_058.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 38010880,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_060.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_060.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 164102144,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_063.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_063.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 33816576,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_065.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_065.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 82313216,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_069.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_069.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 51118080,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_102.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_102.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 24903680,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_111.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_111.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 194772992,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_114.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_114.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 42991616,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_116.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_116.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 36700160,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_121.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_121.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 45875200,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_123.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_123.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 156762112,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_125.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_125.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 179044352,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_136.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_136.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 163577856,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_137.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_137.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 41680896,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_149.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_149.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 194772992,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_153.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_153.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 116916224,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_154.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_154.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 121372672,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_158.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_158.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 157810688,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_171.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_171.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 70778880,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_172.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_172.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 78905344,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_177.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_177.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 192675840,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_185.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_185.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 176422912,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_190.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_190.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 166199296,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_192.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_192.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 154927104,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_194.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_194.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 128712704,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_199.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_199.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 161218560,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_200.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_200.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 107741184,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_202.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_202.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 72351744,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_207.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_207.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 69730304,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_212.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/neg_212.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 2553,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 99874311,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 2553
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_001.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 320,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 89128640,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 320
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_003.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_003.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 18863,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 76789329,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 18863
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_015.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_015.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 422,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 50593370,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 422
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_019.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_019.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 2,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 48496638,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 2
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_021.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_021.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 254,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 53739266,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 254
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_026.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_026.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 3852,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 129495284,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 3852
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_033.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_033.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 6,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 69468154,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 6
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_038.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_038.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 213,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 77856555,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 213
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_045.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_045.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 114,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 85196686,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 114
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_046.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_046.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 11701,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 95933003,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 11701
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_047.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_047.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 120,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 90177416,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 120
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_053.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_053.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 1447,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 80738905,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 1447
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_054.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_054.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 297,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 84147927,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 297
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_055.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_055.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 44,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 85983188,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 44
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_058.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_058.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 168,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 105381720,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 168
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_059.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_059.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 476,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 107216420,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 476
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_061.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_061.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 419,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 144178781,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 419
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/Dataset502_KidneyStones/nnUNet_results/Dataset502_KidneyStones/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/stones_069.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyStones/gt_segmentations/stones_069.nii.gz"
+        }
+    ]
+}

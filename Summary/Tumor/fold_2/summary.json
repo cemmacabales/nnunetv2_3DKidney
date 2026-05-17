@@ -1,0 +1,954 @@
+{
+    "foreground_mean": {
+        "Dice": 0.5598603263642385,
+        "FN": 5070.9655172413795,
+        "FP": 21044.379310344826,
+        "IoU": 0.46137141810493193,
+        "TN": 86674550.43103448,
+        "TP": 46399.60344827586,
+        "n_pred": 67443.9827586207,
+        "n_ref": 51470.56896551724
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.5598603263642385,
+            "FN": 5070.9655172413795,
+            "FP": 21044.379310344826,
+            "IoU": 0.46137141810493193,
+            "TN": 86674550.43103448,
+            "TP": 46399.60344827586,
+            "n_pred": 67443.9827586207,
+            "n_ref": 51470.56896551724
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 6392,
+                    "IoU": 0.0,
+                    "TN": 49538824,
+                    "TP": 0,
+                    "n_pred": 6392,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_001.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 16,
+                    "IoU": 0.0,
+                    "TN": 41156592,
+                    "TP": 0,
+                    "n_pred": 16,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_002.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_002.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 46399488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_004.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_004.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 43253760,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_013.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_013.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 41156608,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_024.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_024.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 43515904,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_025.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_025.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 92536,
+                    "IoU": 0.0,
+                    "TN": 81172104,
+                    "TP": 0,
+                    "n_pred": 92536,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_026.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_026.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 81264640,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_028.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_028.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 46399488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_048.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_048.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 99876864,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_051.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_051.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 212272,
+                    "IoU": 0.0,
+                    "TN": 85770960,
+                    "TP": 0,
+                    "n_pred": 212272,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_056.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_056.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 135790592,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_061.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_061.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 71827456,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_078.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_078.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 97779712,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_079.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_079.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 119013376,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_084.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_084.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 91750400,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_086.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_086.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 96206848,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_090.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_090.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 7741,
+                    "IoU": 0.0,
+                    "TN": 83091907,
+                    "TP": 0,
+                    "n_pred": 7741,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_092.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_092.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 30847,
+                    "IoU": 0.0,
+                    "TN": 80971649,
+                    "TP": 0,
+                    "n_pred": 30847,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_093.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_093.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 86769664,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_094.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_094.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 35,
+                    "IoU": 0.0,
+                    "TN": 77856733,
+                    "TP": 0,
+                    "n_pred": 35,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_095.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_095.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 492,
+                    "IoU": 0.0,
+                    "TN": 85196308,
+                    "TP": 0,
+                    "n_pred": 492,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_096.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_096.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 46399488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_098.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_098.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 80740352,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_104.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_104.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 105381888,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_109.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_109.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 72613888,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_117.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_117.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 73400320,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/neg_122.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/neg_122.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7689618181095792,
+                    "FN": 4111,
+                    "FP": 1704,
+                    "IoU": 0.6246449780531887,
+                    "TN": 157795196,
+                    "TP": 9677,
+                    "n_pred": 11381,
+                    "n_ref": 13788
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_001.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.673352435530086,
+                    "FN": 2919,
+                    "FP": 1641,
+                    "IoU": 0.5075593952483801,
+                    "TN": 110877652,
+                    "TP": 4700,
+                    "n_pred": 6341,
+                    "n_ref": 7619
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_006.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_006.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.964419897805831,
+                    "FN": 5885,
+                    "FP": 3585,
+                    "IoU": 0.9312846932481951,
+                    "TN": 144827817,
+                    "TP": 128345,
+                    "n_pred": 131930,
+                    "n_ref": 134230
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_010.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_010.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9253912353942674,
+                    "FN": 72659,
+                    "FP": 32908,
+                    "IoU": 0.8611424602830107,
+                    "TN": 84698690,
+                    "TP": 654687,
+                    "n_pred": 687595,
+                    "n_ref": 727346
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_014.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_014.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7937160238156873,
+                    "FN": 79,
+                    "FP": 12671,
+                    "IoU": 0.6579843879932402,
+                    "TN": 179007073,
+                    "TP": 24529,
+                    "n_pred": 37200,
+                    "n_ref": 24608
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_016.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_016.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9586427440308719,
+                    "FN": 6915,
+                    "FP": 9225,
+                    "IoU": 0.9205704752484019,
+                    "TN": 143451713,
+                    "TP": 187059,
+                    "n_pred": 196284,
+                    "n_ref": 193974
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_025.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_025.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8756264189703197,
+                    "FN": 9033,
+                    "FP": 159037,
+                    "IoU": 0.7787682259204608,
+                    "TN": 170420331,
+                    "TP": 591631,
+                    "n_pred": 750668,
+                    "n_ref": 600664
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_031.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_031.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7071731704792464,
+                    "FN": 4640,
+                    "FP": 1018,
+                    "IoU": 0.5469975980784628,
+                    "TN": 107728694,
+                    "TP": 6832,
+                    "n_pred": 7850,
+                    "n_ref": 11472
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_032.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_032.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5766793409378961,
+                    "FN": 26471,
+                    "FP": 10937,
+                    "IoU": 0.40516473731077474,
+                    "TN": 163252824,
+                    "TP": 25480,
+                    "n_pred": 36417,
+                    "n_ref": 51951
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_039.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_039.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.590193202831091,
+                    "FN": 761,
+                    "FP": 12093,
+                    "IoU": 0.4186341022161918,
+                    "TN": 178235810,
+                    "TP": 9256,
+                    "n_pred": 21349,
+                    "n_ref": 10017
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_043.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_043.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8097781130677043,
+                    "FN": 4102,
+                    "FP": 24643,
+                    "IoU": 0.6803589498382057,
+                    "TN": 133865655,
+                    "TP": 61184,
+                    "n_pred": 85827,
+                    "n_ref": 65286
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_044.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_044.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5682735899940232,
+                    "FN": 2953,
+                    "FP": 56279,
+                    "IoU": 0.3969149315277707,
+                    "TN": 68321369,
+                    "TP": 38983,
+                    "n_pred": 95262,
+                    "n_ref": 41936
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_045.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_045.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.10558809409505521,
+                    "FN": 685,
+                    "FP": 185621,
+                    "IoU": 0.05573660816105178,
+                    "TN": 19463497,
+                    "TP": 10997,
+                    "n_pred": 196618,
+                    "n_ref": 11682
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_048.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_048.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7968152481143911,
+                    "FN": 13534,
+                    "FP": 40236,
+                    "IoU": 0.6622551082580103,
+                    "TN": 79008285,
+                    "TP": 105433,
+                    "n_pred": 145669,
+                    "n_ref": 118967
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_049.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_049.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7622672849332134,
+                    "FN": 2966,
+                    "FP": 3904,
+                    "IoU": 0.615857749944084,
+                    "TN": 17807908,
+                    "TP": 11014,
+                    "n_pred": 14918,
+                    "n_ref": 13980
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_054.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_054.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6882700421940928,
+                    "FN": 12751,
+                    "FP": 3872,
+                    "IoU": 0.524704065877509,
+                    "TN": 138114914,
+                    "TP": 18351,
+                    "n_pred": 22223,
+                    "n_ref": 31102
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_056.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_056.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.49539806718821905,
+                    "FN": 222,
+                    "FP": 8550,
+                    "IoU": 0.32925523780394556,
+                    "TN": 24628458,
+                    "TP": 4306,
+                    "n_pred": 12856,
+                    "n_ref": 4528
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_061.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_061.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.42574100011356325,
+                    "FN": 3443,
+                    "FP": 72408,
+                    "IoU": 0.2704389812249923,
+                    "TN": 206203360,
+                    "TP": 28117,
+                    "n_pred": 100525,
+                    "n_ref": 31560
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_063.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_063.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8219825587482985,
+                    "FN": 1066,
+                    "FP": 10835,
+                    "IoU": 0.6977677324326383,
+                    "TN": 85157423,
+                    "TP": 27476,
+                    "n_pred": 38311,
+                    "n_ref": 28542
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_071.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_071.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7895786721298218,
+                    "FN": 60709,
+                    "FP": 1739,
+                    "IoU": 0.6523172171124424,
+                    "TN": 113328740,
+                    "TP": 117164,
+                    "n_pred": 118903,
+                    "n_ref": 177873
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_072.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_072.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.46696047569080096,
+                    "FN": 517,
+                    "FP": 37582,
+                    "IoU": 0.3045978060488802,
+                    "TN": 18033149,
+                    "TP": 16688,
+                    "n_pred": 54270,
+                    "n_ref": 17205
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_073.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_073.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8953748006379585,
+                    "FN": 1059,
+                    "FP": 253,
+                    "IoU": 0.8105688709211666,
+                    "TN": 53994738,
+                    "TP": 5614,
+                    "n_pred": 5867,
+                    "n_ref": 6673
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_079.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_079.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8495521481706392,
+                    "FN": 893,
+                    "FP": 5053,
+                    "IoU": 0.7384534177883346,
+                    "TN": 15968050,
+                    "TP": 16788,
+                    "n_pred": 21841,
+                    "n_ref": 17681
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_081.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_081.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.84962353434812,
+                    "FN": 4532,
+                    "FP": 1919,
+                    "IoU": 0.7385612968591692,
+                    "TN": 18063261,
+                    "TP": 18224,
+                    "n_pred": 20143,
+                    "n_ref": 22756
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_089.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_089.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9512851897184823,
+                    "FN": 253,
+                    "FP": 941,
+                    "IoU": 0.9070961718020542,
+                    "TN": 90426828,
+                    "TP": 11658,
+                    "n_pred": 12599,
+                    "n_ref": 11911
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_095.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_095.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6439767064020884,
+                    "FN": 8832,
+                    "FP": 88681,
+                    "IoU": 0.4749009175892819,
+                    "TN": 42281624,
+                    "TP": 88191,
+                    "n_pred": 176872,
+                    "n_ref": 97023
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_103.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_103.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.677465141521249,
+                    "FN": 3595,
+                    "FP": 4131,
+                    "IoU": 0.5122474747474748,
+                    "TN": 45597216,
+                    "TP": 8114,
+                    "n_pred": 12245,
+                    "n_ref": 11709
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_112.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_112.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9418651608448406,
+                    "FN": 3235,
+                    "FP": 47870,
+                    "IoU": 0.8901182779284054,
+                    "TN": 122218301,
+                    "TP": 413986,
+                    "n_pred": 461856,
+                    "n_ref": 417221
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_125.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_125.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5901958111853164,
+                    "FN": 18144,
+                    "FP": 26957,
+                    "IoU": 0.41863672690711284,
+                    "TN": 62312694,
+                    "TP": 32477,
+                    "n_pred": 59434,
+                    "n_ref": 50621
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_126.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_126.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7441769753705562,
+                    "FN": 5910,
+                    "FP": 3272,
+                    "IoU": 0.5925810888760704,
+                    "TN": 46376951,
+                    "TP": 13355,
+                    "n_pred": 16627,
+                    "n_ref": 19265
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_141.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_141.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.12622782583198944,
+                    "FN": 11242,
+                    "FP": 678,
+                    "IoU": 0.06736562084343949,
+                    "TN": 121359891,
+                    "TP": 861,
+                    "n_pred": 1539,
+                    "n_ref": 12103
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset503_KidneyTumorFixed/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_2/validation/tumor_153.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset503_KidneyTumorFixed/gt_segmentations/tumor_153.nii.gz"
+        }
+    ]
+}

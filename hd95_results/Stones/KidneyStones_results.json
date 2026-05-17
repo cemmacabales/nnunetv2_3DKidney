@@ -1,0 +1,1752 @@
+{
+  "fold_0": [
+    {
+      "case": "neg_010.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_011.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_016.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_018.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_020.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_030.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_033.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_035.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_040.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_047.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_050.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_052.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_053.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_054.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_055.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_057.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_067.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_071.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_073.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_085.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_087.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_097.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_099.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_100.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_101.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_112.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_113.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_120.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_127.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_128.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_130.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_132.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_134.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_144.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_145.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_147.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_161.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_162.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_163.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_167.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_183.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_184.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_211.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_000.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_002.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_006.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_008.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_010.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_012.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_014.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_017.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_018.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_027.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_029.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_043.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_050.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_062.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_067.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    }
+  ],
+  "fold_1": [
+    {
+      "case": "neg_009.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_014.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_015.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_017.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_019.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_027.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_031.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_039.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_042.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_044.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_049.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_066.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_068.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_070.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_075.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_089.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_103.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_106.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_110.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_115.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_140.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_148.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_151.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_152.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_159.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_160.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_165.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_175.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_176.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_180.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_182.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_187.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_191.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_193.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_195.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_203.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_205.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_209.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_213.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_004.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_007.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_023.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_024.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_025.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_028.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_030.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_031.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_039.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_041.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_044.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_049.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_057.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_060.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_064.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_065.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_066.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_073.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_074.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    }
+  ],
+  "fold_2": [
+    {
+      "case": "neg_001.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_002.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_004.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_013.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_024.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_025.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_026.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_028.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_048.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_051.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_056.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_061.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_078.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_079.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_084.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_086.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_090.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_092.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_093.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_094.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_095.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_096.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_098.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_104.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_109.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_117.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_122.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_126.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_131.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_135.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_139.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_141.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_150.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_156.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_157.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_164.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_168.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_169.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_170.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_173.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_174.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_179.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_181.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_186.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_188.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_196.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_197.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_198.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_204.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_206.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_214.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_005.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_013.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_022.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_035.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_036.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_051.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_063.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    }
+  ],
+  "fold_3": [
+    {
+      "case": "neg_000.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_003.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_006.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_007.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_008.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_021.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_032.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_037.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_045.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_046.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_058.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_060.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_063.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_065.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_069.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_102.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_111.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_114.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_116.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_121.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_123.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_125.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_136.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_137.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_149.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_153.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_154.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_158.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_171.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_172.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_177.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_185.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_190.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_192.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_194.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_199.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_200.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_202.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_207.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_212.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_001.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_003.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_015.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_019.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_021.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_026.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_033.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_038.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_045.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_046.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_047.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_053.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_054.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_055.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_058.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_059.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_061.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_069.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    }
+  ],
+  "fold_4": [
+    {
+      "case": "neg_005.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_012.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_022.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_023.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_029.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_034.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_036.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_038.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_041.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_043.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_059.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_062.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_064.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_072.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_074.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_076.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_077.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_080.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_081.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_082.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_083.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_088.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_091.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_105.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_107.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_108.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_118.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_119.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_124.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_129.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_133.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_138.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_142.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_143.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_146.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_155.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_166.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_178.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_189.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_201.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_208.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_210.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_009.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_011.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_016.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_020.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_032.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_034.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_037.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_040.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_042.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_048.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_052.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_056.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_068.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_070.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_071.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "stones_072.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    }
+  ]
+}

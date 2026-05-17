@@ -1,0 +1,954 @@
+{
+    "foreground_mean": {
+        "Dice": 0.167206079202727,
+        "FN": 1836.2068965517242,
+        "FP": 18536.0,
+        "IoU": 0.13181378447304917,
+        "TN": 99044791.29310344,
+        "TP": 7189.603448275862,
+        "n_pred": 25725.603448275862,
+        "n_ref": 9025.810344827587
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.167206079202727,
+            "FN": 1836.2068965517242,
+            "FP": 18536.0,
+            "IoU": 0.13181378447304917,
+            "TN": 99044791.29310344,
+            "TP": 7189.603448275862,
+            "n_pred": 25725.603448275862,
+            "n_ref": 9025.810344827587
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.833882290315068,
+                    "FN": 22149,
+                    "FP": 2816,
+                    "IoU": 0.71509272467903,
+                    "TN": 99789239,
+                    "TP": 62660,
+                    "n_pred": 65476,
+                    "n_ref": 84809
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_000.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_000.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5421245421245421,
+                    "FN": 695,
+                    "FP": 1805,
+                    "IoU": 0.37185929648241206,
+                    "TN": 54784116,
+                    "TP": 1480,
+                    "n_pred": 3285,
+                    "n_ref": 2175
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_003.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_003.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8802685565087653,
+                    "FN": 251,
+                    "FP": 391,
+                    "IoU": 0.7861425716189208,
+                    "TN": 46396486,
+                    "TP": 2360,
+                    "n_pred": 2751,
+                    "n_ref": 2611
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_006.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_006.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8494749124854143,
+                    "FN": 1465,
+                    "FP": 341,
+                    "IoU": 0.7383367139959433,
+                    "TN": 46392586,
+                    "TP": 5096,
+                    "n_pred": 5437,
+                    "n_ref": 6561
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_007.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_007.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 1325,
+                    "FP": 32,
+                    "IoU": 0.0,
+                    "TN": 41155251,
+                    "TP": 0,
+                    "n_pred": 32,
+                    "n_ref": 1325
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_008.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_008.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.03225806451612903,
+                    "FN": 417,
+                    "FP": 243,
+                    "IoU": 0.01639344262295082,
+                    "TN": 46398817,
+                    "TP": 11,
+                    "n_pred": 254,
+                    "n_ref": 428
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_021.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_021.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.09099043292724895,
+                    "FN": 3884,
+                    "FP": 9323,
+                    "IoU": 0.04766368618402077,
+                    "TN": 84396500,
+                    "TP": 661,
+                    "n_pred": 9984,
+                    "n_ref": 4545
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_032.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_032.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.018080632988031947,
+                    "FN": 72,
+                    "FP": 118319,
+                    "IoU": 0.009122789397477423,
+                    "TN": 77999431,
+                    "TP": 1090,
+                    "n_pred": 119409,
+                    "n_ref": 1162
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_037.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_037.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8634420436772288,
+                    "FN": 7474,
+                    "FP": 4313,
+                    "IoU": 0.7596990887035943,
+                    "TN": 144916581,
+                    "TP": 37264,
+                    "n_pred": 41577,
+                    "n_ref": 44738
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_045.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_045.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.06269299148498175,
+                    "FN": 115,
+                    "FP": 9902,
+                    "IoU": 0.032360896445131376,
+                    "TN": 66312080,
+                    "TP": 335,
+                    "n_pred": 10237,
+                    "n_ref": 450
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_046.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_046.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5938967136150235,
+                    "FN": 672,
+                    "FP": 366,
+                    "IoU": 0.42237061769616024,
+                    "TN": 25164027,
+                    "TP": 759,
+                    "n_pred": 1125,
+                    "n_ref": 1431
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_058.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_058.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6412949888066127,
+                    "FN": 858,
+                    "FP": 5391,
+                    "IoU": 0.47198986058301645,
+                    "TN": 37999045,
+                    "TP": 5586,
+                    "n_pred": 10977,
+                    "n_ref": 6444
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_060.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_060.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.876004032553521,
+                    "FN": 23998,
+                    "FP": 25077,
+                    "IoU": 0.7793658144020286,
+                    "TN": 163879717,
+                    "TP": 173352,
+                    "n_pred": 198429,
+                    "n_ref": 197350
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_063.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_063.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.08600979858464888,
+                    "FN": 115,
+                    "FP": 1564,
+                    "IoU": 0.044937428896473265,
+                    "TN": 33814818,
+                    "TP": 79,
+                    "n_pred": 1643,
+                    "n_ref": 194
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_065.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_065.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.21113538407037846,
+                    "FN": 853,
+                    "FP": 25869,
+                    "IoU": 0.11802759258036834,
+                    "TN": 82282918,
+                    "TP": 3576,
+                    "n_pred": 29445,
+                    "n_ref": 4429
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_069.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_069.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9176976513397287,
+                    "FN": 1423,
+                    "FP": 1065,
+                    "IoU": 0.8479124640870469,
+                    "TN": 51101721,
+                    "TP": 13871,
+                    "n_pred": 14936,
+                    "n_ref": 15294
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_102.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_102.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.003959276018099547,
+                    "FN": 25,
+                    "FP": 3497,
+                    "IoU": 0.0019835647492207425,
+                    "TN": 24900151,
+                    "TP": 7,
+                    "n_pred": 3504,
+                    "n_ref": 32
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_111.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_111.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.754518526316797,
+                    "FN": 641,
+                    "FP": 50658,
+                    "IoU": 0.6058046966250692,
+                    "TN": 194642856,
+                    "TP": 78837,
+                    "n_pred": 129495,
+                    "n_ref": 79478
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_114.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_114.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.02445213379469435,
+                    "FN": 255,
+                    "FP": 20890,
+                    "IoU": 0.01237739374124241,
+                    "TN": 42970206,
+                    "TP": 265,
+                    "n_pred": 21155,
+                    "n_ref": 520
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_116.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_116.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 299,
+                    "FP": 14970,
+                    "IoU": 0.0,
+                    "TN": 36684891,
+                    "TP": 0,
+                    "n_pred": 14970,
+                    "n_ref": 299
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_121.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_121.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0022079355802324826,
+                    "FN": 75,
+                    "FP": 61385,
+                    "IoU": 0.0011051878819399298,
+                    "TN": 45813672,
+                    "TP": 68,
+                    "n_pred": 61453,
+                    "n_ref": 143
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_123.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_123.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.2829598308668076,
+                    "FN": 732,
+                    "FP": 7747,
+                    "IoU": 0.16479511426319937,
+                    "TN": 156751960,
+                    "TP": 1673,
+                    "n_pred": 9420,
+                    "n_ref": 2405
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_125.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_125.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.525,
+                    "FN": 367,
+                    "FP": 279,
+                    "IoU": 0.3559322033898305,
+                    "TN": 179043349,
+                    "TP": 357,
+                    "n_pred": 636,
+                    "n_ref": 724
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_136.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_136.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 460,
+                    "FP": 28601,
+                    "IoU": 0.0,
+                    "TN": 163548795,
+                    "TP": 0,
+                    "n_pred": 28601,
+                    "n_ref": 460
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_137.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_137.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.04862992125984252,
+                    "FN": 2253,
+                    "FP": 12850,
+                    "IoU": 0.0249209116146943,
+                    "TN": 41665407,
+                    "TP": 386,
+                    "n_pred": 13236,
+                    "n_ref": 2639
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_149.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_149.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0684491342206002,
+                    "FN": 1178,
+                    "FP": 92754,
+                    "IoU": 0.03543739667087685,
+                    "TN": 194675609,
+                    "TP": 3451,
+                    "n_pred": 96205,
+                    "n_ref": 4629
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_153.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_153.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.31128242318276195,
+                    "FN": 3908,
+                    "FP": 65419,
+                    "IoU": 0.18433065863472717,
+                    "TN": 116831230,
+                    "TP": 15667,
+                    "n_pred": 81086,
+                    "n_ref": 19575
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_154.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_154.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.1772403765210071,
+                    "FN": 30541,
+                    "FP": 44716,
+                    "IoU": 0.09723738349147704,
+                    "TN": 121289309,
+                    "TP": 8106,
+                    "n_pred": 52822,
+                    "n_ref": 38647
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/cyst_158.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/cyst_158.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 248,
+                    "IoU": 0.0,
+                    "TN": 99876616,
+                    "TP": 0,
+                    "n_pred": 248,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_001.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_001.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 248,
+                    "IoU": 0.0,
+                    "TN": 56622856,
+                    "TP": 0,
+                    "n_pred": 248,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_002.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_002.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 88,
+                    "IoU": 0.0,
+                    "TN": 95682472,
+                    "TP": 0,
+                    "n_pred": 88,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_007.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_007.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 684,
+                    "IoU": 0.0,
+                    "TN": 76807508,
+                    "TP": 0,
+                    "n_pred": 684,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_015.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_015.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 4,
+                    "IoU": 0.0,
+                    "TN": 38010876,
+                    "TP": 0,
+                    "n_pred": 4,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_020.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_020.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 239,
+                    "IoU": 0.0,
+                    "TN": 152043281,
+                    "TP": 0,
+                    "n_pred": 239,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_022.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_022.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 6761,
+                    "IoU": 0.0,
+                    "TN": 56878487,
+                    "TP": 0,
+                    "n_pred": 6761,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_024.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_024.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 14998,
+                    "IoU": 0.0,
+                    "TN": 97764714,
+                    "TP": 0,
+                    "n_pred": 14998,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_029.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_029.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 972,
+                    "IoU": 0.0,
+                    "TN": 75496500,
+                    "TP": 0,
+                    "n_pred": 972,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_030.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_030.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 793,
+                    "IoU": 0.0,
+                    "TN": 105381095,
+                    "TP": 0,
+                    "n_pred": 793,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_032.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_032.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 4292,
+                    "IoU": 0.0,
+                    "TN": 83357500,
+                    "TP": 0,
+                    "n_pred": 4292,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_037.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_037.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 5201,
+                    "IoU": 0.0,
+                    "TN": 83094447,
+                    "TP": 0,
+                    "n_pred": 5201,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_042.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_042.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 49713,
+                    "IoU": 0.0,
+                    "TN": 85147087,
+                    "TP": 0,
+                    "n_pred": 49713,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_046.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_046.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 3979,
+                    "IoU": 0.0,
+                    "TN": 46395509,
+                    "TP": 0,
+                    "n_pred": 3979,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_048.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_048.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 795,
+                    "IoU": 0.0,
+                    "TN": 83885285,
+                    "TP": 0,
+                    "n_pred": 795,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_060.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_060.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 2,
+                    "IoU": 0.0,
+                    "TN": 74186750,
+                    "TP": 0,
+                    "n_pred": 2,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_064.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_064.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 7,
+                    "IoU": 0.0,
+                    "TN": 92274681,
+                    "TP": 0,
+                    "n_pred": 7,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_066.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_066.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 14059,
+                    "IoU": 0.0,
+                    "TN": 189778197,
+                    "TP": 0,
+                    "n_pred": 14059,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_071.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_071.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 6927,
+                    "IoU": 0.0,
+                    "TN": 218621169,
+                    "TP": 0,
+                    "n_pred": 6927,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_078.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_078.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 1073,
+                    "IoU": 0.0,
+                    "TN": 175635407,
+                    "TP": 0,
+                    "n_pred": 1073,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_083.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_083.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 1831,
+                    "IoU": 0.0,
+                    "TN": 192674009,
+                    "TP": 0,
+                    "n_pred": 1831,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_090.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_090.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 804,
+                    "IoU": 0.0,
+                    "TN": 179043548,
+                    "TP": 0,
+                    "n_pred": 804,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_091.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_091.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 205221,
+                    "IoU": 0.0,
+                    "TN": 61136475,
+                    "TP": 0,
+                    "n_pred": 205221,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_092.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_092.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 7760,
+                    "IoU": 0.0,
+                    "TN": 71819696,
+                    "TP": 0,
+                    "n_pred": 7760,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_098.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_098.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 24728,
+                    "IoU": 0.0,
+                    "TN": 154902376,
+                    "TP": 0,
+                    "n_pred": 24728,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_099.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_099.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 3091,
+                    "IoU": 0.0,
+                    "TN": 143651821,
+                    "TP": 0,
+                    "n_pred": 3091,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_100.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_100.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 8723,
+                    "IoU": 0.0,
+                    "TN": 69721581,
+                    "TP": 0,
+                    "n_pred": 8723,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_103.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_103.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 1468,
+                    "IoU": 0.0,
+                    "TN": 128711236,
+                    "TP": 0,
+                    "n_pred": 1468,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_104.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_104.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 99200,
+                    "IoU": 0.0,
+                    "TN": 171080832,
+                    "TP": 0,
+                    "n_pred": 99200,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_106.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_106.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.0,
+                    "FN": 0,
+                    "FP": 596,
+                    "IoU": 0.0,
+                    "TN": 163315116,
+                    "TP": 0,
+                    "n_pred": 596,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/1THESIS_AMM/nnUNet_results/Dataset502_KidneyCyst/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_3/validation/neg_114.nii.gz",
+            "reference_file": "/content/nnUNet_preprocessed/Dataset502_KidneyCyst/gt_segmentations/neg_114.nii.gz"
+        }
+    ]
+}

@@ -1,0 +1,1752 @@
+{
+  "fold_0": [
+    {
+      "case": "cyst_010.nii.gz",
+      "label_1_hd95": 81.71482263057608,
+      "label_1_esd_mm": 24.69343851874434,
+      "label_1_density_hu": 10.246812227074235
+    },
+    {
+      "case": "cyst_011.nii.gz",
+      "label_1_hd95": 37.514998638973765,
+      "label_1_esd_mm": 9.593678619008623,
+      "label_1_density_hu": 21.457286432160803
+    },
+    {
+      "case": "cyst_016.nii.gz",
+      "label_1_hd95": 87.6380282120926,
+      "label_1_esd_mm": 23.415719291157515,
+      "label_1_density_hu": 15.519717300010242
+    },
+    {
+      "case": "cyst_018.nii.gz",
+      "label_1_hd95": 34.5776721007313,
+      "label_1_esd_mm": 16.315659324734494,
+      "label_1_density_hu": 16.44387405886379
+    },
+    {
+      "case": "cyst_020.nii.gz",
+      "label_1_hd95": 24.578438490376666,
+      "label_1_esd_mm": 38.210428254914056,
+      "label_1_density_hu": 13.474866524449892
+    },
+    {
+      "case": "cyst_030.nii.gz",
+      "label_1_hd95": 221.89056227161802,
+      "label_1_esd_mm": 16.127386763450566,
+      "label_1_density_hu": 14.972367438386856
+    },
+    {
+      "case": "cyst_033.nii.gz",
+      "label_1_hd95": 95.65059251637237,
+      "label_1_esd_mm": 29.718935699511245,
+      "label_1_density_hu": 16.892134268537074
+    },
+    {
+      "case": "cyst_035.nii.gz",
+      "label_1_hd95": 336.97629276030875,
+      "label_1_esd_mm": 18.389172476368177,
+      "label_1_density_hu": 10.401301518438178
+    },
+    {
+      "case": "cyst_040.nii.gz",
+      "label_1_hd95": 91.87301218659947,
+      "label_1_esd_mm": 47.76466171751872,
+      "label_1_density_hu": 16.741725154699115
+    },
+    {
+      "case": "cyst_047.nii.gz",
+      "label_1_hd95": 147.21634128284927,
+      "label_1_esd_mm": 19.058593436679825,
+      "label_1_density_hu": 35.5919540229885
+    },
+    {
+      "case": "cyst_050.nii.gz",
+      "label_1_hd95": 170.20101644390002,
+      "label_1_esd_mm": 58.114679228573436,
+      "label_1_density_hu": 11.928633385147844
+    },
+    {
+      "case": "cyst_052.nii.gz",
+      "label_1_hd95": 131.92305044382243,
+      "label_1_esd_mm": 19.72294378669063,
+      "label_1_density_hu": 23.247386759581882
+    },
+    {
+      "case": "cyst_053.nii.gz",
+      "label_1_hd95": 128.34935412955863,
+      "label_1_esd_mm": 32.50105238019826,
+      "label_1_density_hu": 21.998672529660666
+    },
+    {
+      "case": "cyst_054.nii.gz",
+      "label_1_hd95": 70.26478936850235,
+      "label_1_esd_mm": 52.5789866659028,
+      "label_1_density_hu": 11.483288484269295
+    },
+    {
+      "case": "cyst_055.nii.gz",
+      "label_1_hd95": 160.49790830764584,
+      "label_1_esd_mm": 14.3806466706546,
+      "label_1_density_hu": 14.084789311408016
+    },
+    {
+      "case": "cyst_057.nii.gz",
+      "label_1_hd95": 59.00042627529074,
+      "label_1_esd_mm": 4.340876839958264,
+      "label_1_density_hu": 11.76923076923077
+    },
+    {
+      "case": "cyst_067.nii.gz",
+      "label_1_hd95": 33.95080881461516,
+      "label_1_esd_mm": 51.018249080580745,
+      "label_1_density_hu": 16.41512591210841
+    },
+    {
+      "case": "cyst_071.nii.gz",
+      "label_1_hd95": 1.9548273830843095,
+      "label_1_esd_mm": 30.34275979155349,
+      "label_1_density_hu": 17.569871733050437
+    },
+    {
+      "case": "cyst_073.nii.gz",
+      "label_1_hd95": 239.82580173409158,
+      "label_1_esd_mm": 32.354836695401794,
+      "label_1_density_hu": 5.271393073458611
+    },
+    {
+      "case": "cyst_085.nii.gz",
+      "label_1_hd95": 176.3759167651083,
+      "label_1_esd_mm": 1.72586442169111,
+      "label_1_density_hu": 44.333333333333336
+    },
+    {
+      "case": "cyst_087.nii.gz",
+      "label_1_hd95": 97.52475356777857,
+      "label_1_esd_mm": 20.905769478364096,
+      "label_1_density_hu": 28.789004029936674
+    },
+    {
+      "case": "cyst_097.nii.gz",
+      "label_1_hd95": 137.03437953981575,
+      "label_1_esd_mm": 22.185827090489457,
+      "label_1_density_hu": 10.927112000667167
+    },
+    {
+      "case": "cyst_099.nii.gz",
+      "label_1_hd95": 105.55933078595659,
+      "label_1_esd_mm": 41.63455957859617,
+      "label_1_density_hu": 7.390085776979852
+    },
+    {
+      "case": "cyst_100.nii.gz",
+      "label_1_hd95": 157.38418623933543,
+      "label_1_esd_mm": 39.8475928942575,
+      "label_1_density_hu": 22.704415913408948
+    },
+    {
+      "case": "cyst_101.nii.gz",
+      "label_1_hd95": 243.22559974565462,
+      "label_1_esd_mm": 7.125559347670795,
+      "label_1_density_hu": -5.678260869565217
+    },
+    {
+      "case": "cyst_112.nii.gz",
+      "label_1_hd95": 153.9361222998623,
+      "label_1_esd_mm": 33.15072542237656,
+      "label_1_density_hu": 15.962556447566483
+    },
+    {
+      "case": "cyst_113.nii.gz",
+      "label_1_hd95": 195.38340043971579,
+      "label_1_esd_mm": 54.22377928900955,
+      "label_1_density_hu": 13.828414408531941
+    },
+    {
+      "case": "cyst_120.nii.gz",
+      "label_1_hd95": 237.22826026441652,
+      "label_1_esd_mm": 54.302161338514416,
+      "label_1_density_hu": -7.708064712322102
+    },
+    {
+      "case": "cyst_127.nii.gz",
+      "label_1_hd95": 169.3636424042992,
+      "label_1_esd_mm": 47.57599912058316,
+      "label_1_density_hu": 35.97793667453862
+    },
+    {
+      "case": "cyst_128.nii.gz",
+      "label_1_hd95": 85.5545641780869,
+      "label_1_esd_mm": 34.68725551972621,
+      "label_1_density_hu": 22.377210778193923
+    },
+    {
+      "case": "cyst_130.nii.gz",
+      "label_1_hd95": 116.8349602195354,
+      "label_1_esd_mm": 20.33831273410256,
+      "label_1_density_hu": 25.466544607190414
+    },
+    {
+      "case": "cyst_132.nii.gz",
+      "label_1_hd95": 181.04647871089148,
+      "label_1_esd_mm": 45.09231396856674,
+      "label_1_density_hu": 3.4732466816699583
+    },
+    {
+      "case": "cyst_134.nii.gz",
+      "label_1_hd95": 177.37146425585908,
+      "label_1_esd_mm": 22.293734947391332,
+      "label_1_density_hu": 20.05438066465257
+    },
+    {
+      "case": "cyst_144.nii.gz",
+      "label_1_hd95": 216.9889728263718,
+      "label_1_esd_mm": 52.23649467388621,
+      "label_1_density_hu": 14.996248737555907
+    },
+    {
+      "case": "cyst_145.nii.gz",
+      "label_1_hd95": 31.11187950104869,
+      "label_1_esd_mm": 30.951710315503114,
+      "label_1_density_hu": 11.49176343505266
+    },
+    {
+      "case": "cyst_147.nii.gz",
+      "label_1_hd95": 130.18635084462747,
+      "label_1_esd_mm": 54.04195450765991,
+      "label_1_density_hu": 11.584992262700974
+    },
+    {
+      "case": "cyst_161.nii.gz",
+      "label_1_hd95": 270.04822701768717,
+      "label_1_esd_mm": 61.40332543674242,
+      "label_1_density_hu": 17.78430575180067
+    },
+    {
+      "case": "cyst_162.nii.gz",
+      "label_1_hd95": 254.60461146170343,
+      "label_1_esd_mm": 26.15564829800291,
+      "label_1_density_hu": 24.487385860867928
+    },
+    {
+      "case": "cyst_163.nii.gz",
+      "label_1_hd95": 70.81988774816205,
+      "label_1_esd_mm": 17.83394905407888,
+      "label_1_density_hu": 48.15702306079665
+    },
+    {
+      "case": "cyst_167.nii.gz",
+      "label_1_hd95": 239.5504039622272,
+      "label_1_esd_mm": 47.31199701210223,
+      "label_1_density_hu": -0.8621119614756213
+    },
+    {
+      "case": "neg_013.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 36.3354186341028,
+      "label_1_density_hu": -2.7539235755714775
+    },
+    {
+      "case": "neg_014.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 41.11616679660766,
+      "label_1_density_hu": 6.363544055027841
+    },
+    {
+      "case": "neg_041.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 31.04914916186969,
+      "label_1_density_hu": 10.922077280363672
+    },
+    {
+      "case": "neg_045.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 46.38517521749498,
+      "label_1_density_hu": 12.031395616406835
+    },
+    {
+      "case": "neg_047.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 25.126796060076945,
+      "label_1_density_hu": 6.070791917494984
+    },
+    {
+      "case": "neg_051.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 17.470273472386985,
+      "label_1_density_hu": 6.174742656289229
+    },
+    {
+      "case": "neg_053.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 5.951775952186339,
+      "label_1_density_hu": 31.369230769230768
+    },
+    {
+      "case": "neg_055.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_057.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 47.531493061558784,
+      "label_1_density_hu": -3.389174176563336
+    },
+    {
+      "case": "neg_059.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 7.673390551533734,
+      "label_1_density_hu": 2.0879478827361564
+    },
+    {
+      "case": "neg_062.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 10.041592006042414,
+      "label_1_density_hu": 46.54351145038168
+    },
+    {
+      "case": "neg_063.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 31.4964702131441,
+      "label_1_density_hu": 12.185353535353535
+    },
+    {
+      "case": "neg_072.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 8.093485482482937,
+      "label_1_density_hu": -6.780691299165674
+    },
+    {
+      "case": "neg_074.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 27.315904570636402,
+      "label_1_density_hu": 13.808436098654708
+    },
+    {
+      "case": "neg_088.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 9.6475193447247,
+      "label_1_density_hu": 26.495793901156677
+    },
+    {
+      "case": "neg_095.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 16.998234305278,
+      "label_1_density_hu": 13.83295389869095
+    },
+    {
+      "case": "neg_107.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 43.75052207637071,
+      "label_1_density_hu": -3.4302809949194577
+    },
+    {
+      "case": "neg_112.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 37.8480893415171,
+      "label_1_density_hu": 38.37836360474073
+    }
+  ],
+  "fold_1": [
+    {
+      "case": "cyst_009.nii.gz",
+      "label_1_hd95": 148.2807584743963,
+      "label_1_esd_mm": 28.413177781999654,
+      "label_1_density_hu": 17.93866895776882
+    },
+    {
+      "case": "cyst_014.nii.gz",
+      "label_1_hd95": 99.93936468281875,
+      "label_1_esd_mm": 39.04056054639267,
+      "label_1_density_hu": 36.80879328684553
+    },
+    {
+      "case": "cyst_015.nii.gz",
+      "label_1_hd95": 109.26012389745297,
+      "label_1_esd_mm": 36.19289610734641,
+      "label_1_density_hu": 19.259261793178943
+    },
+    {
+      "case": "cyst_017.nii.gz",
+      "label_1_hd95": 196.33883704933965,
+      "label_1_esd_mm": 43.79031236241522,
+      "label_1_density_hu": -5.7764309764309765
+    },
+    {
+      "case": "cyst_019.nii.gz",
+      "label_1_hd95": 1.6971190282375637,
+      "label_1_esd_mm": 16.878671717327457,
+      "label_1_density_hu": 14.9896331738437
+    },
+    {
+      "case": "cyst_027.nii.gz",
+      "label_1_hd95": 5.491581803371866,
+      "label_1_esd_mm": 45.71033028989232,
+      "label_1_density_hu": 3.391475742072613
+    },
+    {
+      "case": "cyst_031.nii.gz",
+      "label_1_hd95": 99.07108538404093,
+      "label_1_esd_mm": 67.93609174546923,
+      "label_1_density_hu": 4.941450948062655
+    },
+    {
+      "case": "cyst_039.nii.gz",
+      "label_1_hd95": 94.07070299159415,
+      "label_1_esd_mm": 12.493768571320045,
+      "label_1_density_hu": 28.643290627107216
+    },
+    {
+      "case": "cyst_042.nii.gz",
+      "label_1_hd95": 69.6276107137989,
+      "label_1_esd_mm": 21.63713256844466,
+      "label_1_density_hu": 9.917304946124887
+    },
+    {
+      "case": "cyst_044.nii.gz",
+      "label_1_hd95": 1.6105890139469274,
+      "label_1_esd_mm": 33.20812920421114,
+      "label_1_density_hu": 16.357512209135304
+    },
+    {
+      "case": "cyst_049.nii.gz",
+      "label_1_hd95": 131.59958547849064,
+      "label_1_esd_mm": 12.06049176691134,
+      "label_1_density_hu": 24.856071964017993
+    },
+    {
+      "case": "cyst_066.nii.gz",
+      "label_1_hd95": 154.0135790495293,
+      "label_1_esd_mm": 45.814565290876054,
+      "label_1_density_hu": -9.915790669924428
+    },
+    {
+      "case": "cyst_068.nii.gz",
+      "label_1_hd95": 143.59924341168977,
+      "label_1_esd_mm": 53.943945956143565,
+      "label_1_density_hu": 17.774554268839637
+    },
+    {
+      "case": "cyst_070.nii.gz",
+      "label_1_hd95": 188.32593955603377,
+      "label_1_esd_mm": 18.44664573259955,
+      "label_1_density_hu": 26.301157503100455
+    },
+    {
+      "case": "cyst_075.nii.gz",
+      "label_1_hd95": 151.629062734454,
+      "label_1_esd_mm": 15.947503991287196,
+      "label_1_density_hu": 37.63762315270936
+    },
+    {
+      "case": "cyst_089.nii.gz",
+      "label_1_hd95": 159.83658340507517,
+      "label_1_esd_mm": 10.327566877032895,
+      "label_1_density_hu": 36.57832744405182
+    },
+    {
+      "case": "cyst_103.nii.gz",
+      "label_1_hd95": 92.5202342075211,
+      "label_1_esd_mm": 44.126941550611726,
+      "label_1_density_hu": 28.811474273034072
+    },
+    {
+      "case": "cyst_106.nii.gz",
+      "label_1_hd95": 112.20357539752025,
+      "label_1_esd_mm": 38.61035593091198,
+      "label_1_density_hu": 22.0270874343832
+    },
+    {
+      "case": "cyst_110.nii.gz",
+      "label_1_hd95": 191.13161319008555,
+      "label_1_esd_mm": 11.157657642039002,
+      "label_1_density_hu": 19.73857302118172
+    },
+    {
+      "case": "cyst_115.nii.gz",
+      "label_1_hd95": 155.1125741334444,
+      "label_1_esd_mm": 32.93606392833882,
+      "label_1_density_hu": 22.715538973479884
+    },
+    {
+      "case": "cyst_140.nii.gz",
+      "label_1_hd95": 225.91592349161905,
+      "label_1_esd_mm": 46.883233269067425,
+      "label_1_density_hu": -5.143695205814295
+    },
+    {
+      "case": "cyst_148.nii.gz",
+      "label_1_hd95": 157.9032406137964,
+      "label_1_esd_mm": 34.55963306545804,
+      "label_1_density_hu": 14.036182445381373
+    },
+    {
+      "case": "cyst_151.nii.gz",
+      "label_1_hd95": 137.5313102407067,
+      "label_1_esd_mm": 13.739485958354585,
+      "label_1_density_hu": 59.53300561797753
+    },
+    {
+      "case": "cyst_152.nii.gz",
+      "label_1_hd95": 236.50832551900263,
+      "label_1_esd_mm": 27.54670378824815,
+      "label_1_density_hu": 24.10988296488947
+    },
+    {
+      "case": "cyst_159.nii.gz",
+      "label_1_hd95": 189.20735795725017,
+      "label_1_esd_mm": 21.927444827117615,
+      "label_1_density_hu": 33.83736342468207
+    },
+    {
+      "case": "cyst_160.nii.gz",
+      "label_1_hd95": 38.550190231099656,
+      "label_1_esd_mm": 42.71973457880965,
+      "label_1_density_hu": 16.58717930495345
+    },
+    {
+      "case": "cyst_165.nii.gz",
+      "label_1_hd95": 175.30505553384413,
+      "label_1_esd_mm": 28.012852096300687,
+      "label_1_density_hu": 10.641090802463102
+    },
+    {
+      "case": "neg_005.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 15.258587130250742,
+      "label_1_density_hu": -4.67109634551495
+    },
+    {
+      "case": "neg_006.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 3.0395327744811427,
+      "label_1_density_hu": 1.8125
+    },
+    {
+      "case": "neg_010.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 2.881917031781567,
+      "label_1_density_hu": 93.41666666666667
+    },
+    {
+      "case": "neg_012.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 25.974434982474207,
+      "label_1_density_hu": 8.30348186377844
+    },
+    {
+      "case": "neg_017.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 2.3895242086649873,
+      "label_1_density_hu": 61.55555555555556
+    },
+    {
+      "case": "neg_021.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 29.272043034498058,
+      "label_1_density_hu": 15.847416178647274
+    },
+    {
+      "case": "neg_023.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 2.9590736220946625,
+      "label_1_density_hu": -13.428571428571429
+    },
+    {
+      "case": "neg_025.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 35.43372278237698,
+      "label_1_density_hu": 20.055937951180205
+    },
+    {
+      "case": "neg_033.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 7.033461251715138,
+      "label_1_density_hu": 10.363829787234042
+    },
+    {
+      "case": "neg_035.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 29.740706637294235,
+      "label_1_density_hu": 7.4921682644454926
+    },
+    {
+      "case": "neg_039.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 62.37150083094966,
+      "label_1_density_hu": 7.127745772408563
+    },
+    {
+      "case": "neg_043.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 36.602396422357266,
+      "label_1_density_hu": 13.049699670606472
+    },
+    {
+      "case": "neg_049.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 17.175632654528012,
+      "label_1_density_hu": 10.333765896703866
+    },
+    {
+      "case": "neg_052.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 9.57009632821264,
+      "label_1_density_hu": 34.77541371158392
+    },
+    {
+      "case": "neg_068.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 39.29032210418454,
+      "label_1_density_hu": 11.77859202567049
+    },
+    {
+      "case": "neg_069.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 35.850685217367975,
+      "label_1_density_hu": -7.765892338189727
+    },
+    {
+      "case": "neg_070.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_073.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 14.080878077385767,
+      "label_1_density_hu": 16.98634008478568
+    },
+    {
+      "case": "neg_075.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 40.56300065094295,
+      "label_1_density_hu": 13.35112849324357
+    },
+    {
+      "case": "neg_076.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 10.276549816236123,
+      "label_1_density_hu": 54.89275687815834
+    },
+    {
+      "case": "neg_084.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 9.775334430806305,
+      "label_1_density_hu": 29.527153558052433
+    },
+    {
+      "case": "neg_086.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 3.4321613866857428,
+      "label_1_density_hu": -7.176470588235294
+    },
+    {
+      "case": "neg_089.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 41.28831573576019,
+      "label_1_density_hu": -13.284459986414753
+    },
+    {
+      "case": "neg_094.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 21.443740412164022,
+      "label_1_density_hu": 35.80361293750415
+    },
+    {
+      "case": "neg_102.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 3.1963542104404503,
+      "label_1_density_hu": 45.595238095238095
+    },
+    {
+      "case": "neg_105.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 23.14719679285202,
+      "label_1_density_hu": 18.58658115441539
+    },
+    {
+      "case": "neg_109.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 16.501758157689157,
+      "label_1_density_hu": 10.213374805598756
+    },
+    {
+      "case": "neg_110.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 24.178600385527133,
+      "label_1_density_hu": 21.09032780979827
+    },
+    {
+      "case": "neg_111.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 40.59555071854138,
+      "label_1_density_hu": 12.422875581415306
+    },
+    {
+      "case": "neg_118.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 52.2045384778004,
+      "label_1_density_hu": 11.455378746175413
+    },
+    {
+      "case": "neg_119.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 32.56331215365214,
+      "label_1_density_hu": 7.6604122777657455
+    }
+  ],
+  "fold_2": [
+    {
+      "case": "cyst_001.nii.gz",
+      "label_1_hd95": 136.01078113875573,
+      "label_1_esd_mm": 39.75218772898977,
+      "label_1_density_hu": 8.629871414441148
+    },
+    {
+      "case": "cyst_002.nii.gz",
+      "label_1_hd95": 128.85914101067362,
+      "label_1_esd_mm": 7.089835689387502,
+      "label_1_density_hu": 51.91512915129151
+    },
+    {
+      "case": "cyst_004.nii.gz",
+      "label_1_hd95": 83.56619511424474,
+      "label_1_esd_mm": 11.892411316415709,
+      "label_1_density_hu": 30.653635652853794
+    },
+    {
+      "case": "cyst_013.nii.gz",
+      "label_1_hd95": 65.17993639376134,
+      "label_1_esd_mm": 7.880023336552849,
+      "label_1_density_hu": 17.942857142857143
+    },
+    {
+      "case": "cyst_024.nii.gz",
+      "label_1_hd95": 69.71101694788653,
+      "label_1_esd_mm": 36.46784028883511,
+      "label_1_density_hu": 28.604962039045553
+    },
+    {
+      "case": "cyst_025.nii.gz",
+      "label_1_hd95": 100.97672116666286,
+      "label_1_esd_mm": 8.684733265111207,
+      "label_1_density_hu": -14.724324324324325
+    },
+    {
+      "case": "cyst_026.nii.gz",
+      "label_1_hd95": 19.227862716297864,
+      "label_1_esd_mm": 48.97723814375803,
+      "label_1_density_hu": -13.406803158465774
+    },
+    {
+      "case": "cyst_028.nii.gz",
+      "label_1_hd95": 72.21518222764108,
+      "label_1_esd_mm": 11.316833644726836,
+      "label_1_density_hu": 6.778501628664495
+    },
+    {
+      "case": "cyst_048.nii.gz",
+      "label_1_hd95": 3.8227402465981957,
+      "label_1_esd_mm": 19.037800058924585,
+      "label_1_density_hu": 14.940728035067657
+    },
+    {
+      "case": "cyst_051.nii.gz",
+      "label_1_hd95": 240.44971344808383,
+      "label_1_esd_mm": 42.17248969444425,
+      "label_1_density_hu": 2.931580054702293
+    },
+    {
+      "case": "cyst_056.nii.gz",
+      "label_1_hd95": 313.82408670940026,
+      "label_1_esd_mm": 54.1717296603721,
+      "label_1_density_hu": 13.912173500656646
+    },
+    {
+      "case": "cyst_061.nii.gz",
+      "label_1_hd95": 27.26360563230901,
+      "label_1_esd_mm": 26.51383288741767,
+      "label_1_density_hu": 24.87854251012146
+    },
+    {
+      "case": "cyst_078.nii.gz",
+      "label_1_hd95": 4.290528027884041,
+      "label_1_esd_mm": 49.1428844431817,
+      "label_1_density_hu": 22.611670599067732
+    },
+    {
+      "case": "cyst_079.nii.gz",
+      "label_1_hd95": 82.22638539151846,
+      "label_1_esd_mm": 7.387999052944188,
+      "label_1_density_hu": 29.281967213114754
+    },
+    {
+      "case": "cyst_084.nii.gz",
+      "label_1_hd95": 166.1021664404673,
+      "label_1_esd_mm": 15.708799289961688,
+      "label_1_density_hu": 46.15794481446242
+    },
+    {
+      "case": "cyst_086.nii.gz",
+      "label_1_hd95": 35.58285581419759,
+      "label_1_esd_mm": 25.462565805993496,
+      "label_1_density_hu": 19.011834319526628
+    },
+    {
+      "case": "cyst_090.nii.gz",
+      "label_1_hd95": 55.26085756303842,
+      "label_1_esd_mm": 39.8593639265716,
+      "label_1_density_hu": 19.03974281357049
+    },
+    {
+      "case": "cyst_092.nii.gz",
+      "label_1_hd95": 105.70109502391755,
+      "label_1_esd_mm": 23.35700148796938,
+      "label_1_density_hu": 4.85377358490566
+    },
+    {
+      "case": "cyst_093.nii.gz",
+      "label_1_hd95": 192.30698819836576,
+      "label_1_esd_mm": 13.932698059156696,
+      "label_1_density_hu": 50.68174437485502
+    },
+    {
+      "case": "cyst_094.nii.gz",
+      "label_1_hd95": 71.69967013626047,
+      "label_1_esd_mm": 7.455237173072834,
+      "label_1_density_hu": 33.579268292682926
+    },
+    {
+      "case": "cyst_095.nii.gz",
+      "label_1_hd95": 64.19584901659987,
+      "label_1_esd_mm": 40.26910277667732,
+      "label_1_density_hu": 12.696031052388053
+    },
+    {
+      "case": "cyst_096.nii.gz",
+      "label_1_hd95": 74.59458577302745,
+      "label_1_esd_mm": 23.243893713591344,
+      "label_1_density_hu": 22.3764300344707
+    },
+    {
+      "case": "cyst_098.nii.gz",
+      "label_1_hd95": 180.3513358746322,
+      "label_1_esd_mm": 21.65705165603291,
+      "label_1_density_hu": 34.03113961702919
+    },
+    {
+      "case": "cyst_104.nii.gz",
+      "label_1_hd95": 105.6866496158718,
+      "label_1_esd_mm": 27.996917500928742,
+      "label_1_density_hu": 30.57482309424252
+    },
+    {
+      "case": "cyst_109.nii.gz",
+      "label_1_hd95": 171.42666412391904,
+      "label_1_esd_mm": 51.56613304778318,
+      "label_1_density_hu": 6.700657526058206
+    },
+    {
+      "case": "cyst_117.nii.gz",
+      "label_1_hd95": 240.47781135177033,
+      "label_1_esd_mm": 46.626768906677775,
+      "label_1_density_hu": -4.5338255079863385
+    },
+    {
+      "case": "cyst_122.nii.gz",
+      "label_1_hd95": 292.69700978929563,
+      "label_1_esd_mm": 36.52347176216695,
+      "label_1_density_hu": 13.452268159632501
+    },
+    {
+      "case": "cyst_126.nii.gz",
+      "label_1_hd95": 179.50270330907318,
+      "label_1_esd_mm": 17.497579237091134,
+      "label_1_density_hu": 37.53358925143954
+    },
+    {
+      "case": "cyst_131.nii.gz",
+      "label_1_hd95": 194.47042235884453,
+      "label_1_esd_mm": 10.31387329601459,
+      "label_1_density_hu": 76.22893617021276
+    },
+    {
+      "case": "cyst_135.nii.gz",
+      "label_1_hd95": 85.88953488572243,
+      "label_1_esd_mm": 28.227212476393166,
+      "label_1_density_hu": 20.89917127071823
+    },
+    {
+      "case": "cyst_139.nii.gz",
+      "label_1_hd95": 77.22482332474081,
+      "label_1_esd_mm": 55.687629394808006,
+      "label_1_density_hu": 10.966567430782971
+    },
+    {
+      "case": "cyst_141.nii.gz",
+      "label_1_hd95": 85.20440873235661,
+      "label_1_esd_mm": 27.79474149406898,
+      "label_1_density_hu": 21.651939541274707
+    },
+    {
+      "case": "cyst_150.nii.gz",
+      "label_1_hd95": 232.14291347226307,
+      "label_1_esd_mm": 37.3222274106393,
+      "label_1_density_hu": 23.070541227751544
+    },
+    {
+      "case": "cyst_156.nii.gz",
+      "label_1_hd95": 37.951848542195876,
+      "label_1_esd_mm": 42.54954063186042,
+      "label_1_density_hu": 22.18110531721577
+    },
+    {
+      "case": "cyst_157.nii.gz",
+      "label_1_hd95": 91.11165294387858,
+      "label_1_esd_mm": 35.79287873962058,
+      "label_1_density_hu": 21.58504051945437
+    },
+    {
+      "case": "cyst_164.nii.gz",
+      "label_1_hd95": 102.90915156495564,
+      "label_1_esd_mm": 27.089688691876127,
+      "label_1_density_hu": 12.110008127249506
+    },
+    {
+      "case": "cyst_168.nii.gz",
+      "label_1_hd95": 234.02854365818624,
+      "label_1_esd_mm": 24.42477005614912,
+      "label_1_density_hu": 22.8895
+    },
+    {
+      "case": "cyst_169.nii.gz",
+      "label_1_hd95": 209.57307736430653,
+      "label_1_esd_mm": 17.89920222158325,
+      "label_1_density_hu": 37.843864734299515
+    },
+    {
+      "case": "neg_000.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 20.382216416347394,
+      "label_1_density_hu": 14.888064677446241
+    },
+    {
+      "case": "neg_003.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 18.469547695722937,
+      "label_1_density_hu": 5.602843051929214
+    },
+    {
+      "case": "neg_004.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 6.897964573064762,
+      "label_1_density_hu": 29.28021978021978
+    },
+    {
+      "case": "neg_009.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 22.195886527542584,
+      "label_1_density_hu": 7.3448098663926
+    },
+    {
+      "case": "neg_011.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 11.674586538082359,
+      "label_1_density_hu": 22.062059238363894
+    },
+    {
+      "case": "neg_016.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 18.5163119680076,
+      "label_1_density_hu": 13.320096533567353
+    },
+    {
+      "case": "neg_018.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 22.636152010040423,
+      "label_1_density_hu": 22.84750566893424
+    },
+    {
+      "case": "neg_026.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 10.785224714753964,
+      "label_1_density_hu": 35.237945492662476
+    },
+    {
+      "case": "neg_027.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 48.49614182149964,
+      "label_1_density_hu": 6.082469873647968
+    },
+    {
+      "case": "neg_028.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 34.53034488339521,
+      "label_1_density_hu": 13.910216718266254
+    },
+    {
+      "case": "neg_034.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 13.644752739218863,
+      "label_1_density_hu": 4.1925042589437815
+    },
+    {
+      "case": "neg_036.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 18.427857629746107,
+      "label_1_density_hu": 13.256440557787757
+    },
+    {
+      "case": "neg_044.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 36.25365798643748,
+      "label_1_density_hu": 11.06422144946735
+    },
+    {
+      "case": "neg_050.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 21.378054443418335,
+      "label_1_density_hu": 6.1912892490232965
+    },
+    {
+      "case": "neg_058.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 13.906200989322897,
+      "label_1_density_hu": 6.500594530321046
+    },
+    {
+      "case": "neg_067.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 7.124547800592923,
+      "label_1_density_hu": 1.6545454545454545
+    },
+    {
+      "case": "neg_080.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 9.25356794033432,
+      "label_1_density_hu": 25.77284157585918
+    },
+    {
+      "case": "neg_081.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 9.840010427264067,
+      "label_1_density_hu": 70.2267365661861
+    },
+    {
+      "case": "neg_096.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 8.206921972069852,
+      "label_1_density_hu": 3.1580333625987707
+    },
+    {
+      "case": "neg_108.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 34.660716491245225,
+      "label_1_density_hu": 34.80992314355751
+    }
+  ],
+  "fold_3": [
+    {
+      "case": "cyst_000.nii.gz",
+      "label_1_hd95": 9.948987084573515,
+      "label_1_esd_mm": 49.57282277318424,
+      "label_1_density_hu": 13.94373510904759
+    },
+    {
+      "case": "cyst_003.nii.gz",
+      "label_1_hd95": 158.2329361715955,
+      "label_1_esd_mm": 16.79671749035962,
+      "label_1_density_hu": 16.33302891933029
+    },
+    {
+      "case": "cyst_006.nii.gz",
+      "label_1_hd95": 36.20347629551759,
+      "label_1_esd_mm": 15.351233236966918,
+      "label_1_density_hu": 25.751726644856415
+    },
+    {
+      "case": "cyst_007.nii.gz",
+      "label_1_hd95": 156.774152332362,
+      "label_1_esd_mm": 19.500725704888787,
+      "label_1_density_hu": 13.542394702961191
+    },
+    {
+      "case": "cyst_008.nii.gz",
+      "label_1_hd95": 100.7482754636963,
+      "label_1_esd_mm": 3.539025112328772,
+      "label_1_density_hu": 28.0
+    },
+    {
+      "case": "cyst_021.nii.gz",
+      "label_1_hd95": 68.5957791608975,
+      "label_1_esd_mm": 6.938373034791479,
+      "label_1_density_hu": 19.496062992125985
+    },
+    {
+      "case": "cyst_032.nii.gz",
+      "label_1_hd95": 108.84375368866873,
+      "label_1_esd_mm": 23.673778995096338,
+      "label_1_density_hu": 9.592147435897436
+    },
+    {
+      "case": "cyst_037.nii.gz",
+      "label_1_hd95": 199.6618998890576,
+      "label_1_esd_mm": 52.04006662105414,
+      "label_1_density_hu": 2.3541525345660714
+    },
+    {
+      "case": "cyst_045.nii.gz",
+      "label_1_hd95": 181.38290128272877,
+      "label_1_esd_mm": 41.150949251959986,
+      "label_1_density_hu": 7.080741756259471
+    },
+    {
+      "case": "cyst_046.nii.gz",
+      "label_1_hd95": 95.89235728389906,
+      "label_1_esd_mm": 23.788696256337715,
+      "label_1_density_hu": 17.69942365927518
+    },
+    {
+      "case": "cyst_058.nii.gz",
+      "label_1_hd95": 81.17070233679983,
+      "label_1_esd_mm": 13.667877649675573,
+      "label_1_density_hu": 60.37777777777778
+    },
+    {
+      "case": "cyst_060.nii.gz",
+      "label_1_hd95": 169.71953986317072,
+      "label_1_esd_mm": 35.23498099395669,
+      "label_1_density_hu": 18.313929124533114
+    },
+    {
+      "case": "cyst_063.nii.gz",
+      "label_1_hd95": 4.962617736095488,
+      "label_1_esd_mm": 45.41652153824787,
+      "label_1_density_hu": 21.665341255562442
+    },
+    {
+      "case": "cyst_065.nii.gz",
+      "label_1_hd95": 200.87870085829152,
+      "label_1_esd_mm": 17.880871757960932,
+      "label_1_density_hu": 16.049300060864272
+    },
+    {
+      "case": "cyst_069.nii.gz",
+      "label_1_hd95": 192.73971615619175,
+      "label_1_esd_mm": 41.8928611413151,
+      "label_1_density_hu": 20.189539820003397
+    },
+    {
+      "case": "cyst_102.nii.gz",
+      "label_1_hd95": 5.171534224517089,
+      "label_1_esd_mm": 27.75884468397997,
+      "label_1_density_hu": 20.52858864488484
+    },
+    {
+      "case": "cyst_111.nii.gz",
+      "label_1_hd95": 154.44739866034996,
+      "label_1_esd_mm": 24.604129014523487,
+      "label_1_density_hu": 7.1158675799086755
+    },
+    {
+      "case": "cyst_114.nii.gz",
+      "label_1_hd95": 197.41439960458308,
+      "label_1_esd_mm": 43.79620238347581,
+      "label_1_density_hu": 6.147526931541758
+    },
+    {
+      "case": "cyst_116.nii.gz",
+      "label_1_hd95": 114.7242416027586,
+      "label_1_esd_mm": 44.73358430799015,
+      "label_1_density_hu": 10.299456393287638
+    },
+    {
+      "case": "cyst_121.nii.gz",
+      "label_1_hd95": 197.4937154460286,
+      "label_1_esd_mm": 34.287796902713865,
+      "label_1_density_hu": 22.697862391449565
+    },
+    {
+      "case": "cyst_123.nii.gz",
+      "label_1_hd95": 225.7675660350253,
+      "label_1_esd_mm": 56.17852357369091,
+      "label_1_density_hu": 13.194896913088051
+    },
+    {
+      "case": "cyst_125.nii.gz",
+      "label_1_hd95": 123.14204114707466,
+      "label_1_esd_mm": 20.87236729922752,
+      "label_1_density_hu": 24.856475583864118
+    },
+    {
+      "case": "cyst_136.nii.gz",
+      "label_1_hd95": 161.53385596386752,
+      "label_1_esd_mm": 7.5149374695197855,
+      "label_1_density_hu": 42.674528301886795
+    },
+    {
+      "case": "cyst_137.nii.gz",
+      "label_1_hd95": 199.4221582209174,
+      "label_1_esd_mm": 24.90260112457082,
+      "label_1_density_hu": 20.91409391280025
+    },
+    {
+      "case": "cyst_149.nii.gz",
+      "label_1_hd95": 230.19852005141266,
+      "label_1_esd_mm": 31.49592793924282,
+      "label_1_density_hu": 30.259595043819886
+    },
+    {
+      "case": "cyst_153.nii.gz",
+      "label_1_hd95": 207.64480535436073,
+      "label_1_esd_mm": 47.90157837751702,
+      "label_1_density_hu": 15.49872667740762
+    },
+    {
+      "case": "cyst_154.nii.gz",
+      "label_1_hd95": 205.7015922936148,
+      "label_1_esd_mm": 47.57962640246825,
+      "label_1_density_hu": 15.577769281996892
+    },
+    {
+      "case": "cyst_158.nii.gz",
+      "label_1_hd95": 71.69844694737408,
+      "label_1_esd_mm": 40.40412068193192,
+      "label_1_density_hu": 16.08583544735148
+    },
+    {
+      "case": "neg_001.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 7.693168378434679,
+      "label_1_density_hu": 18.237903225806452
+    },
+    {
+      "case": "neg_002.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 6.924368331048333,
+      "label_1_density_hu": 42.65725806451613
+    },
+    {
+      "case": "neg_007.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 5.101301942366329,
+      "label_1_density_hu": 72.17045454545455
+    },
+    {
+      "case": "neg_015.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 10.071929329884247,
+      "label_1_density_hu": -16.279239766081872
+    },
+    {
+      "case": "neg_020.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 1.7391340994650135,
+      "label_1_density_hu": 146.75
+    },
+    {
+      "case": "neg_022.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 4.976651274148959,
+      "label_1_density_hu": 12.97907949790795
+    },
+    {
+      "case": "neg_024.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 20.716515948146288,
+      "label_1_density_hu": 17.975891140363853
+    },
+    {
+      "case": "neg_029.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 31.26384069783219,
+      "label_1_density_hu": 1.4806640885451394
+    },
+    {
+      "case": "neg_030.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 11.453653887716602,
+      "label_1_density_hu": 14.669753086419753
+    },
+    {
+      "case": "neg_032.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 10.994776701457429,
+      "label_1_density_hu": 16.05548549810845
+    },
+    {
+      "case": "neg_037.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 19.483631743386653,
+      "label_1_density_hu": 7.750931966449208
+    },
+    {
+      "case": "neg_042.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 21.654100081728128,
+      "label_1_density_hu": 19.833685829648143
+    },
+    {
+      "case": "neg_046.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 43.67693273933909,
+      "label_1_density_hu": -0.6948081990626195
+    },
+    {
+      "case": "neg_048.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 17.36085273103736,
+      "label_1_density_hu": 11.514450867052023
+    },
+    {
+      "case": "neg_060.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 10.659293106038993,
+      "label_1_density_hu": 26.367295597484276
+    },
+    {
+      "case": "neg_064.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 1.380351649502265,
+      "label_1_density_hu": 66.0
+    },
+    {
+      "case": "neg_066.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 2.2118447830561214,
+      "label_1_density_hu": 111.28571428571429
+    },
+    {
+      "case": "neg_071.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 21.90973656268251,
+      "label_1_density_hu": 12.76762216373853
+    },
+    {
+      "case": "neg_078.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 18.477315968563943,
+      "label_1_density_hu": 15.364660025985275
+    },
+    {
+      "case": "neg_083.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 9.126469084648065,
+      "label_1_density_hu": 58.09412861136999
+    },
+    {
+      "case": "neg_090.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 10.287128817671757,
+      "label_1_density_hu": 30.513380666302567
+    },
+    {
+      "case": "neg_091.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 7.479806612581993,
+      "label_1_density_hu": 19.02238805970149
+    },
+    {
+      "case": "neg_092.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 57.65227322620138,
+      "label_1_density_hu": 4.583799903518646
+    },
+    {
+      "case": "neg_098.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 21.31938241285238,
+      "label_1_density_hu": 1.7336340206185568
+    },
+    {
+      "case": "neg_099.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 22.68515849387475,
+      "label_1_density_hu": 39.46344225169848
+    },
+    {
+      "case": "neg_100.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 12.887474369110503,
+      "label_1_density_hu": 32.54933678421223
+    },
+    {
+      "case": "neg_103.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 21.30192481058628,
+      "label_1_density_hu": 12.87378195574917
+    },
+    {
+      "case": "neg_104.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 11.780950793429641,
+      "label_1_density_hu": 62.07425068119891
+    },
+    {
+      "case": "neg_106.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 38.925597487438246,
+      "label_1_density_hu": 7.588356854838709
+    },
+    {
+      "case": "neg_114.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 6.947378178137699,
+      "label_1_density_hu": 19.85234899328859
+    }
+  ],
+  "fold_4": [
+    {
+      "case": "cyst_005.nii.gz",
+      "label_1_hd95": 111.86235242053314,
+      "label_1_esd_mm": 23.517607648881565,
+      "label_1_density_hu": 42.86442220200182
+    },
+    {
+      "case": "cyst_012.nii.gz",
+      "label_1_hd95": 208.94681007695175,
+      "label_1_esd_mm": 9.232834751576622,
+      "label_1_density_hu": 43.280590717299575
+    },
+    {
+      "case": "cyst_022.nii.gz",
+      "label_1_hd95": 189.4015220724251,
+      "label_1_esd_mm": 14.144702873373511,
+      "label_1_density_hu": 14.618494423791821
+    },
+    {
+      "case": "cyst_023.nii.gz",
+      "label_1_hd95": 70.22059618352718,
+      "label_1_esd_mm": 31.425167902239718,
+      "label_1_density_hu": 14.030128395270985
+    },
+    {
+      "case": "cyst_029.nii.gz",
+      "label_1_hd95": 53.98908398142938,
+      "label_1_esd_mm": 16.476763467399454,
+      "label_1_density_hu": 5.4121372031662265
+    },
+    {
+      "case": "cyst_034.nii.gz",
+      "label_1_hd95": 124.52400785283797,
+      "label_1_esd_mm": 12.058625365075807,
+      "label_1_density_hu": 3.9582971329278887
+    },
+    {
+      "case": "cyst_036.nii.gz",
+      "label_1_hd95": 7.737659596906396,
+      "label_1_esd_mm": 45.60148892561029,
+      "label_1_density_hu": 2.7648901872341716
+    },
+    {
+      "case": "cyst_038.nii.gz",
+      "label_1_hd95": 212.40826577996955,
+      "label_1_esd_mm": 16.69348055703889,
+      "label_1_density_hu": 28.352941176470587
+    },
+    {
+      "case": "cyst_041.nii.gz",
+      "label_1_hd95": 59.43272220654211,
+      "label_1_esd_mm": 27.35395621294925,
+      "label_1_density_hu": 16.609804677460808
+    },
+    {
+      "case": "cyst_043.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "cyst_059.nii.gz",
+      "label_1_hd95": 78.89182076642456,
+      "label_1_esd_mm": 26.05755180697634,
+      "label_1_density_hu": 16.96112633939696
+    },
+    {
+      "case": "cyst_062.nii.gz",
+      "label_1_hd95": 301.6077625771868,
+      "label_1_esd_mm": 43.37460619203224,
+      "label_1_density_hu": 4.976583961976192
+    },
+    {
+      "case": "cyst_064.nii.gz",
+      "label_1_hd95": 182.96182609546668,
+      "label_1_esd_mm": 29.96732946920966,
+      "label_1_density_hu": 15.030921459492887
+    },
+    {
+      "case": "cyst_072.nii.gz",
+      "label_1_hd95": 137.71141629594447,
+      "label_1_esd_mm": 17.77833373460574,
+      "label_1_density_hu": 28.725426482534523
+    },
+    {
+      "case": "cyst_074.nii.gz",
+      "label_1_hd95": 129.55362637058136,
+      "label_1_esd_mm": 33.42295796665084,
+      "label_1_density_hu": 20.637137221752607
+    },
+    {
+      "case": "cyst_076.nii.gz",
+      "label_1_hd95": 71.95460607710382,
+      "label_1_esd_mm": 10.505618069408113,
+      "label_1_density_hu": 45.00325732899023
+    },
+    {
+      "case": "cyst_077.nii.gz",
+      "label_1_hd95": 126.21295629046465,
+      "label_1_esd_mm": 9.538147628711043,
+      "label_1_density_hu": 28.014903129657228
+    },
+    {
+      "case": "cyst_080.nii.gz",
+      "label_1_hd95": 91.61104415377011,
+      "label_1_esd_mm": 11.252257094147787,
+      "label_1_density_hu": 75.78101265822785
+    },
+    {
+      "case": "cyst_081.nii.gz",
+      "label_1_hd95": 209.49559260354977,
+      "label_1_esd_mm": 39.60678738710093,
+      "label_1_density_hu": 22.90615858060104
+    },
+    {
+      "case": "cyst_082.nii.gz",
+      "label_1_hd95": 215.52475576507186,
+      "label_1_esd_mm": 12.122162636273968,
+      "label_1_density_hu": 45.874233128834355
+    },
+    {
+      "case": "cyst_083.nii.gz",
+      "label_1_hd95": 221.69288104154268,
+      "label_1_esd_mm": 21.221244195300045,
+      "label_1_density_hu": 13.325900514579759
+    },
+    {
+      "case": "cyst_088.nii.gz",
+      "label_1_hd95": 118.03746769783558,
+      "label_1_esd_mm": 13.941187574950382,
+      "label_1_density_hu": 29.850790513833992
+    },
+    {
+      "case": "cyst_091.nii.gz",
+      "label_1_hd95": 131.97686803508236,
+      "label_1_esd_mm": 22.183327179720344,
+      "label_1_density_hu": 31.254515599343186
+    },
+    {
+      "case": "cyst_105.nii.gz",
+      "label_1_hd95": 1.6159084993650823,
+      "label_1_esd_mm": 42.09498302553156,
+      "label_1_density_hu": 9.130410365437843
+    },
+    {
+      "case": "cyst_107.nii.gz",
+      "label_1_hd95": 101.5400359466762,
+      "label_1_esd_mm": 23.68122251471294,
+      "label_1_density_hu": 19.1167292689974
+    },
+    {
+      "case": "cyst_108.nii.gz",
+      "label_1_hd95": 293.80635058115064,
+      "label_1_esd_mm": 14.76460212698294,
+      "label_1_density_hu": 25.4246947082768
+    },
+    {
+      "case": "cyst_118.nii.gz",
+      "label_1_hd95": 149.9933627077119,
+      "label_1_esd_mm": 11.963218477540698,
+      "label_1_density_hu": 69.76470588235294
+    },
+    {
+      "case": "cyst_119.nii.gz",
+      "label_1_hd95": 18.56859749671032,
+      "label_1_esd_mm": 33.80543574769795,
+      "label_1_density_hu": 32.99775935469415
+    },
+    {
+      "case": "cyst_124.nii.gz",
+      "label_1_hd95": 212.2445621220733,
+      "label_1_esd_mm": 18.06328526265815,
+      "label_1_density_hu": 23.88305030438962
+    },
+    {
+      "case": "cyst_129.nii.gz",
+      "label_1_hd95": 22.97574899201054,
+      "label_1_esd_mm": 24.78571543687412,
+      "label_1_density_hu": 9.627636794386987
+    },
+    {
+      "case": "cyst_133.nii.gz",
+      "label_1_hd95": 112.58702999109954,
+      "label_1_esd_mm": 27.494074633181416,
+      "label_1_density_hu": 44.99554813578186
+    },
+    {
+      "case": "cyst_138.nii.gz",
+      "label_1_hd95": 187.38424483603762,
+      "label_1_esd_mm": 67.18297636202333,
+      "label_1_density_hu": 8.808500146600208
+    },
+    {
+      "case": "cyst_142.nii.gz",
+      "label_1_hd95": 224.21751382844622,
+      "label_1_esd_mm": 43.08128512593837,
+      "label_1_density_hu": 12.808594744826213
+    },
+    {
+      "case": "cyst_143.nii.gz",
+      "label_1_hd95": 80.55421141766749,
+      "label_1_esd_mm": 22.96513871144981,
+      "label_1_density_hu": 19.11630458635067
+    },
+    {
+      "case": "cyst_146.nii.gz",
+      "label_1_hd95": 67.78671691568577,
+      "label_1_esd_mm": 30.836860056995572,
+      "label_1_density_hu": 23.440238738968525
+    },
+    {
+      "case": "cyst_155.nii.gz",
+      "label_1_hd95": 159.30730498091646,
+      "label_1_esd_mm": 33.69982998835292,
+      "label_1_density_hu": 14.651861107955622
+    },
+    {
+      "case": "cyst_166.nii.gz",
+      "label_1_hd95": 119.9232654689119,
+      "label_1_esd_mm": 13.477217722091895,
+      "label_1_density_hu": 27.644345238095237
+    },
+    {
+      "case": "neg_008.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_019.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 3.4564904630686994,
+      "label_1_density_hu": 29.727272727272727
+    },
+    {
+      "case": "neg_031.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 2.68344387974042,
+      "label_1_density_hu": 65.46153846153847
+    },
+    {
+      "case": "neg_038.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 13.711063138326955,
+      "label_1_density_hu": 32.93397129186603
+    },
+    {
+      "case": "neg_040.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 23.43329446831992,
+      "label_1_density_hu": 17.106796116504853
+    },
+    {
+      "case": "neg_054.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 3.8028743336425217,
+      "label_1_density_hu": 3.675675675675676
+    },
+    {
+      "case": "neg_056.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 2.1135968471003,
+      "label_1_density_hu": 102.375
+    },
+    {
+      "case": "neg_061.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 3.5462935090630983,
+      "label_1_density_hu": 36.73076923076923
+    },
+    {
+      "case": "neg_065.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_077.nii.gz",
+      "label_1_hd95": 0.0,
+      "label_1_esd_mm": 0.0,
+      "label_1_density_hu": null
+    },
+    {
+      "case": "neg_079.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 18.516399176300208,
+      "label_1_density_hu": 39.121172638436484
+    },
+    {
+      "case": "neg_082.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 15.550426967328534,
+      "label_1_density_hu": 19.139159789947488
+    },
+    {
+      "case": "neg_085.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 24.970237481410496,
+      "label_1_density_hu": 5.010456796917997
+    },
+    {
+      "case": "neg_087.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 50.856577443364436,
+      "label_1_density_hu": 10.521634372367313
+    },
+    {
+      "case": "neg_093.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 32.15277276973207,
+      "label_1_density_hu": 16.67375134654515
+    },
+    {
+      "case": "neg_097.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 30.422506889353553,
+      "label_1_density_hu": 10.130645967761136
+    },
+    {
+      "case": "neg_101.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 36.37745664562196,
+      "label_1_density_hu": 22.550122675845067
+    },
+    {
+      "case": "neg_113.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 11.724652851328903,
+      "label_1_density_hu": 13.623022847100176
+    },
+    {
+      "case": "neg_115.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 17.139064256075166,
+      "label_1_density_hu": 25.170144462279293
+    },
+    {
+      "case": "neg_116.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 7.625531167019772,
+      "label_1_density_hu": 4.204413472706156
+    },
+    {
+      "case": "neg_117.nii.gz",
+      "label_1_hd95": null,
+      "label_1_esd_mm": 21.80714059371391,
+      "label_1_density_hu": 11.83160265232078
+    }
+  ]
+}
