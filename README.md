@@ -52,7 +52,7 @@ The project compares **single-class** vs. **multi-class** 3D U-Net training conf
 - **Framework:** nnU-Net v2
 - **Configuration:** `3d_fullres` (3D full resolution)
 - **Patch Size:** 128 × 128 × 128
-- **Batch Size:** 12 (tuned for A100 80 GB)
+- **Batch Size:** 2 (tuned for A100)
 
 ### Configurations Trained
 
