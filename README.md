@@ -48,7 +48,7 @@ The project compares **single-class** vs. **multi-class** 3D U-Net training conf
 ## Training
 
 ### Environment
-- **Platform:** Google Colab Pro+ (NVIDIA A100 80 GB)
+- **Platform:** Google Colab Pro+ (NVIDIA A100)
 - **Framework:** nnU-Net v2
 - **Configuration:** `3d_fullres` (3D full resolution)
 - **Patch Size:** 128 × 128 × 128
