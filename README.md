@@ -60,6 +60,7 @@ Segmentation targets four classes from abdominal CT volumes:
 ## Training
 
 ### Environment
+<<<<<<< HEAD
 - **Platform:** Google Colab Pro+ (NVIDIA A100 80 GB)
 - **Framework:** nnU-Net V2 (default 3D U-Net, 6 encoding stages: 32 → 64 → 128 → 256 → 320 → 320)
 - **Configuration:** `3d_fullres` (3D full resolution)
@@ -68,6 +69,13 @@ Segmentation targets four classes from abdominal CT volumes:
 - **Loss:** Soft Dice + Cross-Entropy
 - **Optimizer:** SGD with Nesterov Momentum
 - **Schedule:** 1,000 epochs (250 iterations/epoch)
+=======
+- **Platform:** Google Colab Pro+ (NVIDIA A100)
+- **Framework:** nnU-Net v2
+- **Configuration:** `3d_fullres` (3D full resolution)
+- **Patch Size:** 128 × 128 × 128
+- **Batch Size:** 2 (tuned for A100)
+>>>>>>> 1aada495e3600f6a82f0400441cf688ba740744b
 
 ### Configurations Trained
 
