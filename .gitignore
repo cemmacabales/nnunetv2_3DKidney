@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Archives
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+
+# Data & models (if large)
+*.pth
+*.ckpt

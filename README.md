@@ -21,18 +21,18 @@ Segmentation targets four classes from abdominal CT volumes:
 
 ```
 .
-├── FINAL_MULTICLASS.ipynb          # Main Colab training notebook (multi-class)
-├── HD95_Evaluation.ipynb           # HD95 / diameter / density evaluation notebook
 ├── nnUNetPlans.json                # Preprocessing plans (3d_fullres, batch_size=12)
 ├── PROJECT_LOG.md                  # Detailed project log and troubleshooting notes
 ├── RESULTS_AND_DISCUSSION_FINAL.md # Full thesis results chapter with metrics & analysis
 ├── RESULTS_AND_DISCUSSION_v2.md    # Earlier results draft
 ├── RESULTS_AND_DISCUSSION.md       # Original results draft
-├── hd95_results/
-│   └── generate_summary.py         # Summarizes CSV evaluation results into a Markdown report
-├── Summary/                        # Aggregated result summaries
-├── summaryjsons/                   # JSON evaluation outputs
-└── THESIS_*.pdf / .docx            # Thesis documents
+├── Notebooks/                      # Training notebooks (single-class & multi-class)
+├── figures/                        # Result figures and visualizations
+├── results/                        # Evaluation outputs
+│   ├── hd95/                       # HD95 / diameter / density evaluations
+│   ├── summaries/                  # Aggregated result summaries
+│   └── summaryjsons/               # JSON evaluation outputs per fold
+└── thesis/                         # Thesis documents (all versions)
 ```
 
 ---
@@ -60,7 +60,6 @@ Segmentation targets four classes from abdominal CT volumes:
 ## Training
 
 ### Environment
-<<<<<<< HEAD
 - **Platform:** Google Colab Pro+ (NVIDIA A100 80 GB)
 - **Framework:** nnU-Net V2 (default 3D U-Net, 6 encoding stages: 32 → 64 → 128 → 256 → 320 → 320)
 - **Configuration:** `3d_fullres` (3D full resolution)
@@ -69,13 +68,6 @@ Segmentation targets four classes from abdominal CT volumes:
 - **Loss:** Soft Dice + Cross-Entropy
 - **Optimizer:** SGD with Nesterov Momentum
 - **Schedule:** 1,000 epochs (250 iterations/epoch)
-=======
-- **Platform:** Google Colab Pro+ (NVIDIA A100)
-- **Framework:** nnU-Net v2
-- **Configuration:** `3d_fullres` (3D full resolution)
-- **Patch Size:** 128 × 128 × 128
-- **Batch Size:** 2 (tuned for A100)
->>>>>>> 1aada495e3600f6a82f0400441cf688ba740744b
 
 ### Configurations Trained
 
@@ -91,11 +83,11 @@ All four configurations were trained on the same 290-case corpus with identical 
 ### Quick Start (Colab)
 
 1. Upload your `Dataset500_KidneyAbnormalities` folder to Google Drive.
-2. Open `FINAL_MULTICLASS.ipynb` in Google Colab.
+2. Open the desired notebook from the `Notebooks/` folder in Google Colab (e.g., `MULTICLASS.ipynb`).
 3. Update `DATASET_DRIVE_PATH` in Cell 2.
 4. Run all cells sequentially.
 5. If disconnected during training, use the **resume cell** (`--c` flag).
-6. After all 5 folds complete, run the evaluation cell (Section 7) and export cell (Section 10).
+6. After all 5 folds complete, run the evaluation and export cells.
 
 > **Tip:** Preprocessing is the most fragile step in Colab due to memory fragmentation from multiprocessing. Use `-np 2` workers for stability. The notebook includes a resilience cell that backs up `nnUNetPlans.json` and preprocessed metadata to Drive so you can resume without re-running everything.
 
@@ -115,14 +107,14 @@ Computed from aggregated confusion matrices across all validation cases per fold
 - **Equivalent Spherical Diameter (ESD)** — lesion size quantification
 - **Mean Hounsfield Unit (HU) Density** — tissue characterization
 
-Computed via `HD95_Evaluation.ipynb`, which is self-contained per configuration.
+Computed via the HD95 evaluation pipeline in `results/hd95/`, which is self-contained per configuration.
 
 ### Summarizing Results
 
 After running HD95 evaluation, use the helper script to compile statistics:
 
 ```bash
-cd hd95_results
+cd results/hd95
 python generate_summary.py
 ```
 
@@ -167,16 +159,20 @@ For full statistical analysis, training dynamics, per-fold breakdowns, and clini
 
 ## Files Reference
 
-| File | Purpose |
-|------|---------|
-| `FINAL_MULTICLASS.ipynb` | End-to-end Colab notebook: environment setup → preprocessing (with resilience cell) → training (Folds 0–4) → 5-fold CV evaluation → inference profiling (CUDA timers + VRAM) → model export |
-| `HD95_Evaluation.ipynb` | Computes HD95, ESD, and HU density from nnU-Net predictions. CPU-only, self-contained per configuration |
+| File / Directory | Purpose |
+|------------------|---------|
+| `Notebooks/MULTICLASS.ipynb` | End-to-end Colab notebook: environment setup → preprocessing (with resilience cell) → training (Folds 0–4) → 5-fold CV evaluation → inference profiling (CUDA timers + VRAM) → model export |
+| `Notebooks/CYST.ipynb` | Single-class cyst training notebook |
+| `Notebooks/STONES.ipynb` | Single-class stone training notebook |
+| `Notebooks/TUMOR.ipynb` | Single-class tumor training notebook |
 | `nnUNetPlans.json` | Exported plans file with tuned `batch_size=12` for `3d_fullres` on A100 80 GB |
 | `PROJECT_LOG.md` | Operational log: preprocessing troubleshooting (`-np 2` recommendation), batch size tuning (2 → 12), ResEnc cost-benefit analysis, Colab resume protocol |
 | `RESULTS_AND_DISCUSSION_FINAL.md` | Complete thesis results chapter: RQ1–RQ3 answers, Phase 1 & 2 metrics, training dynamics (catastrophic forgetting analysis), voxel prevalence analysis, head-to-head comparison, clinical deployment profiles |
 | `RESULTS_AND_DISCUSSION_v2.md` | Earlier results draft |
 | `RESULTS_AND_DISCUSSION.md` | Original results draft |
-| `hd95_results/generate_summary.py` | Post-processing script to aggregate per-case CSVs into `compiled_summary.md` |
+| `results/hd95/generate_summary.py` | Post-processing script to aggregate per-case CSVs into `compiled_summary.md` |
+| `figures/` | Result figures, training curves, and case visualizations |
+| `thesis/` | All thesis document versions (PDF & DOCX) |
 
 ---
 
