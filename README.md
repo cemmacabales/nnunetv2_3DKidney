@@ -1,5 +1,17 @@
 # nnU-Net V2 for Multi-Class 3D Renal Abnormality Segmentation
 
+## 🔗 Quick Links
+
+| Resource | Link |
+|----------|------|
+| 🎬 **Demo Video** | https://drive.google.com/file/d/1uWdfFnwQ7WdANk_sAqBJlz6SmNzQaGIk/view?usp=sharing |
+| 📓 **Deployment Notebook** | https://drive.google.com/file/d/1SOSuLNknFt9KZf0XC3t-iPDaqlbmNi_H/view?usp=sharing |
+| 💻 **GitHub Repo** | https://github.com/cemmacabales/nnunetv2_3DKidney |
+| 🗂️ **Dataset** | https://drive.google.com/drive/folders/1-mSVSd4FqvvuoWygPKzoYSK2SEAK4r-J?usp=sharing |
+| 📁 **Thesis Google Drive** (all artifacts) | https://drive.google.com/drive/folders/1XRkCF8WHf7Tgh_Z4iw4cI-PEug4WyUQp?usp=sharing |
+
+---
+
 This repository contains the complete training pipeline, evaluation notebooks, and empirical results for a thesis investigating **single-class versus multi-class 3D semantic segmentation paradigms** for renal abnormalities using **nnU-Net V2**.
 
 The study addresses four identified research gaps in existing renal imaging AI: (1) reliance on coarse bounding-box detection rather than voxel-level segmentation, (2) morphology-dependent performance degradation in existing segmentation systems, (3) single-institution and single-class modeling limitations that ignore co-morbid presentations, and (4) absence of any controlled comparative evidence between single-class and multi-class paradigms under identical conditions.
